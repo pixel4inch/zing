@@ -1,0 +1,156 @@
+{
+"speakers":[
+ {
+  "SpeakerId" : "1",
+  "SpeakerName": "Alan_Hosking",
+  "SpeakerPosition": "CMC CSP, Weber Business",
+  "SpeakerType":"5 Stages Leadership",
+  "SpeakerImage":"./images/evolv/speaker/Alan_Hosking.jpg"
+ },
+
+ {
+    "SpeakerId" : "2",
+    "SpeakerName": "Angela_Maiers",
+    "SpeakerPosition": "Executive Coach",
+    "SpeakerType":"Keynote Speaker",
+    "SpeakerImage":"./images/evolv/speaker/Angela_Maiers.jpg"
+   },
+   {
+    "SpeakerId" : "3",
+    "SpeakerName": "Chester_Elton",
+    "SpeakerPosition": "Executive Coach",
+    "SpeakerType":"Leadership Expert",
+    "SpeakerImage":"./images/evolv/speaker/Chester_Elton.jpg"
+   },
+   {
+    "SpeakerId" : "4",
+    "SpeakerName": "Dan_Pontefract",
+    "SpeakerPosition": "Chief Thinker,",
+    "SpeakerType":"Leadership Speaker",
+    "SpeakerImage":"./images/evolv/speaker/Dan_Pontefract.jpg"
+   },
+   {
+    "SpeakerId" : "5",
+    "SpeakerName": "Dorothy_Dalton",
+    "SpeakerPosition": "Executive Coach",
+    "SpeakerType":"Leadership Speaker",
+    "SpeakerImage":"./images/evolv/speaker/Dorothy_Dalton.jpg"
+   },
+   {
+    "SpeakerId" : "6",
+    "SpeakerName": "Dr_Oleg_Konovalov",
+    "SpeakerPosition": "Executive Coach",
+    "SpeakerType":"Leadership Speaker",
+    "SpeakerImage":"./images/evolv/speaker/Dr_Oleg_Konovalov.jpg"
+   },
+   {
+    "SpeakerId" : "7",
+    "SpeakerName": "Eddie_Turner",
+    "SpeakerPosition": "Founder and CEO",
+    "SpeakerType":"Leadership Speaker",
+    "SpeakerImage":"./images/evolv/speaker/Eddie_Turner.jpg"
+   },
+   {
+    "SpeakerId" : "8",
+    "SpeakerName": "Harsh-Johari",
+    "SpeakerPosition": "Founder and CEO,",
+    "SpeakerType":"Leadership Speaker",
+    "SpeakerImage":"./images/evolv/speaker/Harsh-Johari.jpeg"
+   },
+   {
+    "SpeakerId" : "9",
+    "SpeakerName": "Jackie-Rainforth",
+    "SpeakerPosition": "Executive Coach",
+    "SpeakerType":"Leadership Speaker",
+    "SpeakerImage":"./images/evolv/speaker/Jackie-Rainforth.jpeg"
+   },
+   {
+    "SpeakerId" : "9",
+    "SpeakerName": "Kathy_Caprino",
+    "SpeakerPosition": "",
+    "SpeakerType":"Leadership Speaker",
+    "SpeakerImage":"./images/evolv/speaker/Kathy_Caprino.jpg"
+   },
+ 
+   {
+    "SpeakerId" : "10",
+    "SpeakerName": "Katrina-Collier",
+    "SpeakerPosition": "Executive Coach,",
+    "SpeakerType":"Leadership Speaker",
+    "SpeakerImage":"./images/evolv/speaker/Katrina-Collier.jpeg"
+   },
+ 
+   {
+    "SpeakerId" : "11",
+    "SpeakerName": "Lisa-Bodell",
+    "SpeakerPosition": "Founder and CEO",
+    "SpeakerType":"Leadership Speaker",
+    "SpeakerImage":"./images/evolv/speaker/Lisa-Bodell.jpeg"
+   },
+ 
+   {
+    "SpeakerId" : "12",
+    "SpeakerName": "Marshall_Goldsmith",
+    "SpeakerPosition": "Founder and CEO",
+    "SpeakerType":"Leadership Speaker",
+    "SpeakerImage":"./images/evolv/speaker/Marshall_Goldsmith.jpg"
+   },
+ 
+   {
+    "SpeakerId" : "13",
+    "SpeakerName": "Minter_Dial",
+    "SpeakerPosition": "Executive Coach",
+    "SpeakerType":"Leadership Speaker",
+    "SpeakerImage":"./images/evolv/speaker/Minter_Dial.jpg"
+   },
+ 
+   {
+    "SpeakerId" : "14",
+    "SpeakerName": "Perry_Timms",
+    "SpeakerPosition": "Founder and CEO",
+    "SpeakerType":"Leadership Speaker",
+    "SpeakerImage":"./images/evolv/speaker/Perry_Timms.jpg"
+   },
+ 
+   {
+    "SpeakerId" : "15",
+    "SpeakerName": "Peter-Bregman",
+    "SpeakerPosition": "Executive Coach",
+    "SpeakerType":"Leadership Speaker",
+    "SpeakerImage":"./images/evolv/speaker/Peter-Bregman.jpeg"
+   },
+ 
+   {
+    "SpeakerId" : "16",
+    "SpeakerName": "Siddharth-Vaze",
+    "SpeakerPosition": "Founder and CEO",
+    "SpeakerType":"Leadership Speaker",
+    "SpeakerImage":"./images/evolv/speaker/Siddharth-Vaze.jpeg"
+   },
+ 
+   {
+    "SpeakerId" : "17",
+    "SpeakerName": "Sylvia-Gallusser",
+    "SpeakerPosition": "Executive Coach",
+    "SpeakerType":"Leadership Speaker",
+    "SpeakerImage":"./images/evolv/speaker/Sylvia-Gallusser.jpeg"
+   },
+ 
+   {
+    "SpeakerId" : "18",
+    "SpeakerName": "Whitney_Johnson",
+    "SpeakerPosition": "Founder and CEO",
+    "SpeakerType":"Leadership Speaker",
+    "SpeakerImage":"./images/evolv/speaker/Whitney_Johnson.jpg"
+   },
+   {
+    "SpeakerId" : "19",
+    "SpeakerName": "Katrina-Collier",
+    "SpeakerPosition": "Founder and CEO",
+    "SpeakerType":"Leadership Speaker",
+    "SpeakerImage":"./images/evolv/speaker/Katrina-Collier.jpeg"
+   }
+ 
+]
+
+}

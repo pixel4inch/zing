@@ -1,0 +1,894 @@
+{
+    "speakerslist":[
+     {
+      "Id": 1,
+      "FullName": "Thomas Winandy",
+      "CompanyName": "Commerzbank AG",
+      "Headline": "Head of Mobile Banking",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//p//k//0//w//9//n-thomas-winandy-commerzabnk-ag.jpeg"
+     },
+     {
+      "Id": 2,
+      "FullName": "Jill Castilla",
+      "CompanyName": "Citizens Bank of Edmond",
+      "Headline": "President & CEO",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//8//b//m//q//p//cbe-headshot-jillcastilla.jpeg"
+     },
+     {
+      "Id": 3,
+      "FullName": "Chris Tremont",
+      "CompanyName": "Grasshopper Bank",
+      "Headline": "Chief Digital Officer",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//j//e//k//s//n//1651182187-chris-tremont.jpeg"
+     },
+     {
+      "Id": 4,
+      "FullName": "Arpit Sarin",
+      "CompanyName": "Regions",
+      "Headline": "VP and Enterprise Operations & Digital Transformation Manager",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//n//m//3//g//t//arpit-sarin.jpeg"
+     },
+     {
+      "Id": 5,
+      "FullName": "Tibor Bartels",
+      "CompanyName": "ING",
+      "Headline": "Head of Transaction Services Americas",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//1//k//n//p//m//tibor-bartels-ing-sept2019-1-120x120.png"
+     },
+     {
+      "Id": 6,
+      "FullName": "Raghu Vasu",
+      "CompanyName": "US Bank",
+      "Headline": "Senior Vice President",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//c//p//f//k//i//raghu-vasu.jpeg"
+     },
+     {
+      "Id": 7,
+      "FullName": "Balaji Ganesan",
+      "CompanyName": "Privacera",
+      "Headline": "CEO and co-founder",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//p//e//6//b//m//balaji-ganesan.jpeg"
+     },
+     {
+      "Id": 8,
+      "FullName": "Benjamin Maxim",
+      "CompanyName": "MSU Federal Credit Union",
+      "Headline": "Vice President",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//q//v//7//n//d//rq3ew2bfcxtovbwjbbhlpgtmxamppfvtavpewzkm.png"
+     },
+     {
+      "Id": 9,
+      "FullName": "Kim Jaffee – Prado",
+      "CompanyName": "BMO",
+      "Headline": "CIO, US Capital Markets & Head Investment & Corporate Banking & Office of the COO Technology",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//u//5//7//z//w//kim-jaffee-prado.jpeg"
+     },
+     {
+      "Id": 10,
+      "FullName": "Agus Sudjianto",
+      "CompanyName": "Wells Fargo",
+      "Headline": "EVP, Head of Model Risk Management",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//e//6//4//5//s//agus-sudjianto.png"
+     },
+     {
+      "Id": 11,
+      "FullName": "Neha Wattas",
+      "CompanyName": "JPMorgan Chase & Co",
+      "Headline": "Head of Strategy & Insights",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//r//j//z//a//6//neha-wattas.jpeg"
+     },
+     {
+      "Id": 12,
+      "FullName": "Max Slobin",
+      "CompanyName": "KeyBank",
+      "Headline": "VP, Sr. Payments Advisor",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//d//8//l//8//e//max-slobin.jpeg"
+     },
+     {
+      "Id": 13,
+      "FullName": "Amresh Mathur",
+      "CompanyName": "Citizens",
+      "Headline": "SVP - Head of Digital Acquisition & Customer Experience",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//y//l//l//m//k//amresh-mathur.png"
+     },
+     {
+      "Id": 14,
+      "FullName": "Ulrike Guigui",
+      "CompanyName": "Wells Fargo",
+      "Headline": "Head of Payment Systems",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//n//p//x//0//u//649a8d6a0cbb3573bbba0c2724f34fcbulrike-guighi-5.jpeg"
+     },
+     {
+      "Id": 15,
+      "FullName": "Amanda Orson",
+      "CompanyName": "Curve",
+      "Headline": "CEO",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//d//a//2//m//1//1572560681771.jpeg"
+     },
+     {
+      "Id": 16,
+      "FullName": "Colin Walsh",
+      "CompanyName": "Varo Bank, N.A.",
+      "Headline": "Founder and CEO",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//8//8//y//w//f//1516824521487.jpeg"
+     },
+     {
+      "Id": 17,
+      "FullName": "James Barrese",
+      "CompanyName": "Chime",
+      "Headline": "SVP Technology & Engineering",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//q//j//a//n//p//james-barrese.jpeg"
+     },
+     {
+      "Id": 18,
+      "FullName": "Linda Kugblenu",
+      "CompanyName": "J.P Morgan",
+      "Headline": "Vice President Product Solutions Specialist, Payments and Treasury Services",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//c//f//v//d//s//6c3d787861a073b5b03ca4ef31759083linda-kugblenu-headshot-1-.jpeg"
+     },
+     {
+      "Id": 19,
+      "FullName": "Ankur Sinha",
+      "CompanyName": "Remitly",
+      "Headline": "CTO",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//t//u//h//p//7//bafe55d55302640c6d7e62d7a36db714ankur-sinha.jpeg"
+     },
+     {
+      "Id": 20,
+      "FullName": "Akita Somani",
+      "CompanyName": "U.S. Bank",
+      "Headline": "SVP, BNPL//POS Lending",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//t//h//t//c//5//akita-somani.jpeg"
+     },
+     {
+      "Id": 21,
+      "FullName": "Verna Grayce Chao",
+      "CompanyName": "City National Bank",
+      "Headline": "Executive Vice President, Treasury Management Solutions",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//a//t//h//k//l//85b2fe55303d95e2153e6dd6390a1e09verna-grayce-chao-city-national-bank.jpeg"
+     },
+     {
+      "Id": 22,
+      "FullName": "Carl Slabicki",
+      "CompanyName": "BNY Mellon",
+      "Headline": "Managing Director and Co-Head of Global Payments",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//m//6//5//t//o//3d76195a0c83001323b12dbdbcafbeaccarl-slabicki.jpeg"
+     },
+     {
+      "Id": 23,
+      "FullName": "Sean Loosli",
+      "CompanyName": "Zelle",
+      "Headline": "Head of Consumer and Small Business Payments",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//6//3//q//t//r//2b569bd095f886cc602ba00c97665633seanloosli.jpeg"
+     },
+     {
+      "Id": 24,
+      "FullName": "Brynly Llyr",
+      "CompanyName": "World Economic Forum LLC",
+      "Headline": "Head of Blockchain and Digital Assets",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//9//9//m//2//6//4b91b31d61e382bb3f660200aec6762cbrynly-llyr-1-min.jpeg"
+     },
+     {
+      "Id": 25,
+      "FullName": "Mr. Irfan Ahmed",
+      "CompanyName": "Bank of America",
+      "Headline": "Managing Director, Head of US Payments, GTS",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//m//9//u//f//n//3b0e5a10451dc50ee12cd6bfb1652b00irfan-ahmed52.jpeg"
+     },
+     {
+      "Id": 26,
+      "FullName": "Sayantan Chakraborty",
+      "CompanyName": "J.P Morgan",
+      "Headline": "Head of Cross Border Payments Product",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//c//a//p//r//y//5e589338532f1b694437ea236aee849esayantan-chakraborty-headshot-2.jpeg"
+     },
+     {
+      "Id": 27,
+      "FullName": "Rizwan Khalfan",
+      "CompanyName": "TD Bank",
+      "Headline": "EVP, Chief Digital and Payments Officer",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//a//6//t//o//6//03ae9c3acc2a7cd941d18d6093549462rizwan-khalfan-td-bank.jpeg"
+     },
+     {
+      "Id": 28,
+      "FullName": "Steve Bishop",
+      "CompanyName": "Old Missouri Bank",
+      "Headline": "Chief Operating Officer",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//4//f//4//b//t//8643066582050f3420e6ca4df35812cesteve-bishop4147.jpeg"
+     },
+     {
+      "Id": 29,
+      "FullName": "Phil Robin",
+      "CompanyName": "Truist",
+      "Headline": "Strategy Head, Enterprise Payments",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//5//9//e//u//u//11785073881808c55c1c9ce918dd5aa6phil-robin72.jpeg"
+     },
+     {
+      "Id": 30,
+      "FullName": "Bernadette Ksepka",
+      "CompanyName": "Federal Reserve System",
+      "Headline": "Assistant Vice President & Deputy Head of Product Development, FedNowSM Service",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//w//m//n//a//r//bernadette-ksepka-headshot-2021-f781ceb2190cb69cbaf17787e5192bd4.png"
+     },
+     {
+      "Id": 31,
+      "FullName": "Jon Prendergast",
+      "CompanyName": "TD Bank",
+      "Headline": "SVP, Payments Strategy",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//r//g//6//3//9//552b7d83b4390a4d0d44b5dac299c37cjon-prendergastip.jpeg"
+     },
+     {
+      "Id": 32,
+      "FullName": "Tim Welsh",
+      "CompanyName": "U.S. Bank",
+      "Headline": "Vice Chair, Consumer & Business Banking",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//x//0//b//r//n//1649180760-tim-welsh.jpeg"
+     },
+     {
+      "Id": 33,
+      "FullName": "James Schenck",
+      "CompanyName": "Pentagon Federal Credit Union",
+      "Headline": "President and Chief Executive Officer",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//4//1//d//f//f//james-schenck-300x300-jpg.webp"
+     },
+     {
+      "Id": 34,
+      "FullName": "Mark Parker",
+      "CompanyName": "TD Bank",
+      "Headline": "Executive Vice President, Head of Operations",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//m//8//c//5//d//mark-parker-jpg.webp"
+     },
+     {
+      "Id": 35,
+      "FullName": "Kelly Dearwester",
+      "CompanyName": "Old National Bank",
+      "Headline": "Chief Data Officer",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//q//u//8//3//d//kelly-dearwester-jpg.webp"
+     },
+     {
+      "Id": 36,
+      "FullName": "Ulrike Guigui",
+      "CompanyName": "Wells Fargo",
+      "Headline": "Head of Payment Systems",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//n//p//x//0//u//649a8d6a0cbb3573bbba0c2724f34fcbulrike-guighi-5.jpeg"
+     },
+     {
+      "Id": 37,
+      "FullName": "Anil Choudary",
+      "CompanyName": "Alliant  ",
+      "Headline": "Chief Technology Officer",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//1//x//9//4//t//anil-choudary-crop-2022-150-150-c1.jpeg"
+     },
+     {
+      "Id": 38,
+      "FullName": "Bridgit Chayt",
+      "CompanyName": "Fifth Third Bank",
+      "Headline": "Executive Vice President, Head of Commercial Payments and Treasury Management",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//7//2//8//z//8//bridgit-chayt-jpg.webp"
+     },
+     {
+      "Id": 39,
+      "FullName": "Simon Griffiths",
+      "CompanyName": "Citizens Bank",
+      "Headline": "Executive Vice President, Head of Retail Distribution",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//3//d//j//y//x//nb1hjfwgzgmcmgpbe5wobckw7xjb9uho8yss1uap.png"
+     },
+     {
+      "Id": 40,
+      "FullName": "Chris Kay",
+      "CompanyName": "M&T Bank",
+      "Headline": "Executive Vice President, Consumer Banking",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//e//l//0//k//s//1638119935013.jpeg"
+     },
+     {
+      "Id": 41,
+      "FullName": "Christine Roberts",
+      "CompanyName": "Citizens Pay",
+      "Headline": "President",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//n//b//e//l//q//christine-roberts-jpg.webp"
+     },
+     {
+      "Id": 42,
+      "FullName": "Akita Somani",
+      "CompanyName": "U.S. Bank",
+      "Headline": "SVP, BNPL//POS Lending",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//t//h//t//c//5//akita-somani.jpeg"
+     },
+     {
+      "Id": 43,
+      "FullName": "Chris Kennedy",
+      "CompanyName": "Regions Bank",
+      "Headline": "Senior Vice President, Strategic Initiatives, Technology and Operations",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//o//m//s//v//p//chris-kennedy-jpg.webp"
+     },
+     {
+      "Id": 44,
+      "FullName": "Wei Chen",
+      "CompanyName": "Barclays USA",
+      "Headline": "Managing Director, Head of Credit Strategy and Analytics",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//8//0//b//x//u//1517450864654.jpeg"
+     },
+     {
+      "Id": 45,
+      "FullName": "Vorachat Tamarree",
+      "CompanyName": "PNC Bank",
+      "Headline": "Director of Technology",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//m//y//n//h//s//vorachat-tamarree-jpg.webp"
+     },
+     {
+      "Id": 46,
+      "FullName": "Sean Willett",
+      "CompanyName": "Five Star Bank",
+      "Headline": "Executive Vice President, Chief Administrative Officer",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//g//p//w//4//t//sean-willett-jpg.webp"
+     },
+     {
+      "Id": 47,
+      "FullName": "Brenda Pino",
+      "CompanyName": "BMO Financial Group",
+      "Headline": "Vice President, Physical Channels, Operations",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//i//m//6//w//5//brenda-pino-jpg.webp"
+     },
+     {
+      "Id": 48,
+      "FullName": "Devon Elke",
+      "CompanyName": "RBC",
+      "Headline": "Senior Director, Product, Solution Acceleration & Innovation",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//e//b//y//a//n//1574634898716.jpeg"
+     },
+     {
+      "Id": 49,
+      "FullName": "Sal Karakaplan",
+      "CompanyName": "Truist",
+      "Headline": "Head of Enterprise Payments Strategy",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//l//e//o//4//5//sal-karakaplan-jpg.webp"
+     },
+     {
+      "Id": 50,
+      "FullName": "Brett Ryan",
+      "CompanyName": "Deutsche Bank",
+      "Headline": "Director, Senior US Economist",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//1//x//s//m//3//ryan-brett-310x167.png"
+     },
+     {
+      "Id": 51,
+      "FullName": "Gavin Wood",
+      "CompanyName": "Parity and Web3 Foundation",
+      "Headline": "Founder and CEO",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//2//n//7//u//1//gavin-wood-jpg.webp"
+     },
+     {
+      "Id": 52,
+      "FullName": "Robert Highland",
+      "CompanyName": "Barclays USA",
+      "Headline": "Head of US Cards and Partnerships",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//z//4//r//s//5//robert-highland-jpg.webp"
+     },
+     {
+      "Id": 53,
+      "FullName": "Susanne Frame",
+      "CompanyName": "Scotiabank",
+      "Headline": "Director, Global Content Experience",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//s//p//0//t//n//susanne-frame.jpeg"
+     },
+     {
+      "Id": 54,
+      "FullName": "Richard Booth",
+      "CompanyName": "Western Alliance Bank",
+      "Headline": "Senior Director, Blockchain & Digital Assets",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//9//0//m//y//l//cr6xmrb3eei5pyrfl9qz7evcm1bpxmzxjvpqmhyv.png"
+     },
+     {
+      "Id": 55,
+      "FullName": "Sheela Ursal",
+      "CompanyName": "Fintech Next",
+      "Headline": "Founder & CEO",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//8//q//u//m//s//sheela-ursal-8f68fa5a58ee91868d96d8188955b6a2.png"
+     },
+     {
+      "Id": 56,
+      "FullName": "Corey Leblanc",
+      "CompanyName": "Locality Bank",
+      "Headline": "Co-founder",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//1//3//3//p//3//kozu3zdnwuks9iatffwe.jpeg"
+     },
+     {
+      "Id": 57,
+      "FullName": "Dion Lisle",
+      "CompanyName": "Huntington National Bank",
+      "Headline": "Director of Corporate Ventures",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//k//7//m//w//7//dion-lisle-headshot-2020-1-4f4756909ec91fd3db4b0521a36d8a92.png"
+     },
+     {
+      "Id": 58,
+      "FullName": "Adam Davis",
+      "CompanyName": "Bain & Company, Inc.",
+      "Headline": "Associate Partner",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//u//i//i//2//o//na894vzq2gvalebguuqylaazumno521e65gu7uw0.png"
+     },
+     {
+      "Id": 59,
+      "FullName": "Abraham Tachjian",
+      "CompanyName": "Department of Finance Canada",
+      "Headline": "Open Banking Lead",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//h//g//m//y//3//owmpy6m6mvzxhotnheli.png"
+     },
+     {
+      "Id": 60,
+      "FullName": "Mahima Poddar",
+      "CompanyName": "Equitable Bank",
+      "Headline": "SVP & Group Head, Personal Banking",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//c//b//p//d//t//z19duwk9iyuqpcgfd19e.png"
+     },
+     {
+      "Id": 61,
+      "FullName": "Eytan Bensoussan",
+      "CompanyName": "NorthOne",
+      "Headline": "Co-Founder and CEO",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//7//4//e//4//l//tnorjitqzoavsyynjuda.jpeg"
+     },
+     {
+      "Id": 62,
+      "FullName": "Roberto Bassig",
+      "CompanyName": "PwC",
+      "Headline": "Partner",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//7//l//d//m//g//rcb-photo.jpeg"
+     },
+     {
+      "Id": 63,
+      "FullName": "Rajiv Appana",
+      "CompanyName": "GPay",
+      "Headline": "Group Product Manager",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//f//1//n//4//3//3f76d871-2519-4844-8640-831b1154d99c.jpeg"
+     },
+     {
+      "Id": 64,
+      "FullName": "Mike Cagney",
+      "CompanyName": "Figure Acquisition Corp",
+      "Headline": "Co-Founder & CEO",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//d//x//z//8//0//1516157944429.jpeg"
+     },
+     {
+      "Id": 65,
+      "FullName": "Cheryl Chiodi",
+      "CompanyName": "ABBYY",
+      "Headline": "Director of Solution Marketing",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//1//0//4//y//a//original.png"
+     },
+     {
+      "Id": 66,
+      "FullName": "Tim Welsh",
+      "CompanyName": "U.S. Bank",
+      "Headline": "Vice Chair, Consumer & Business Banking",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//x//0//b//r//n//1649180760-tim-welsh.jpeg"
+     },
+     {
+      "Id": 67,
+      "FullName": "Tibor Bartels",
+      "CompanyName": "ING",
+      "Headline": "Head of Transaction Services Americas",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//1//k//n//p//m//tibor-bartels-ing-sept2019-1-120x120.png"
+     },
+     {
+      "Id": 68,
+      "FullName": "Anish Shah",
+      "CompanyName": "BNY Mellon",
+      "Headline": "Managing Director, Head of Product and Digital",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//g//x//o//6//a//anish-shah-1-120x120.png"
+     },
+     {
+      "Id": 69,
+      "FullName": "Richard Booth",
+      "CompanyName": "Western Alliance Bank",
+      "Headline": "Senior Director, Blockchain & Digital Assets",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//9//0//m//y//l//cr6xmrb3eei5pyrfl9qz7evcm1bpxmzxjvpqmhyv.png"
+     },
+     {
+      "Id": 70,
+      "FullName": "Alex Yang",
+      "CompanyName": "Bank of America",
+      "Headline": "Director, Connected Banking",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//6//u//j//c//f//olgyjghcig5dwqoxoxfqm4sdv8mhmtthg77chz8y.png"
+     },
+     {
+      "Id": 71,
+      "FullName": "Jonas Vernon Ng",
+      "CompanyName": "KeyBank",
+      "Headline": "COO Laurel Road, a division of KeyBank",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//t//r//d//4//6//profile-picture-1-120x120.png"
+     },
+     {
+      "Id": 72,
+      "FullName": "Matthaeus Sielecki",
+      "CompanyName": "Deutsche Bank",
+      "Headline": "Cash Management Solutions Director",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//2//2//t//g//y//v1-matthaeus-sielecki-portrait-120x120.jpeg"
+     },
+     {
+      "Id": 73,
+      "FullName": "Allan Rayson",
+      "CompanyName": "Encore Bank",
+      "Headline": "EVP, CTO, Chief Innovation Officer",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//y//6//0//v//d//das0101-web-1-120x120.png"
+     },
+     {
+      "Id": 74,
+      "FullName": "John Stewart",
+      "CompanyName": "Bank of America",
+      "Headline": "Global Head of Commercialization",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//n//8//9//0//x//john-120x120.png"
+     },
+     {
+      "Id": 75,
+      "FullName": "Jonathan Alloy",
+      "CompanyName": "Credit Suisse",
+      "Headline": "Vice President - Design Thinking",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//w//j//a//n//l//ns7mvs7nslaqush4atfd.jpeg"
+     },
+     {
+      "Id": 76,
+      "FullName": "Stephen Gannon",
+      "CompanyName": "DAVIS WRIGHT TREMAINE LLP",
+      "Headline": "Partner",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//c//j//q//3//m//dwt-stephengannonheadshot-120x120.png"
+     },
+     {
+      "Id": 77,
+      "FullName": "Avi Greenfield",
+      "CompanyName": "Quadient",
+      "Headline": "VP of Product Management, CXM",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//h//j//r//j//z//greenfield-headshot-2022-120x120.jpeg"
+     },
+     {
+      "Id": 78,
+      "FullName": "Abhishek Kodi",
+      "CompanyName": "BNY Mellon",
+      "Headline": "VP, Principal Business Architect (AI//ML)",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//5//g//g//x//y//abhishek-kodi-120x120.png"
+     },
+     {
+      "Id": 79,
+      "FullName": "Konstantin Konstantinovsky",
+      "CompanyName": "IDB Bank",
+      "Headline": "Senior Vice President",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//w//3//6//4//k//headshot3-120x120.png"
+     },
+     {
+      "Id": 80,
+      "FullName": "Michael Ivie",
+      "CompanyName": "Phyton Consulting",
+      "Headline": "Managing Partner, Head of Financial Services Consulting",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//e//t//f//a//h//michael-ivie-headshot-120x120.jpeg"
+     },
+     {
+      "Id": 81,
+      "FullName": "Jim Maimone",
+      "CompanyName": "Citizens Bank",
+      "Headline": "SVP, Payments Solutions Consultant",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//9//v//z//o//i//1009178-6074aa3170a36.jpeg"
+     },
+     {
+      "Id": 82,
+      "FullName": "Mayank Mishra",
+      "CompanyName": "CITI",
+      "Headline": "Managing Director; Global Head Digital Channels",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//g//6//q//4//b//mishra-mayank-bw.jpeg"
+     },
+     {
+      "Id": 83,
+      "FullName": "Kristen Mountford",
+      "CompanyName": "JP Morgan Chase",
+      "Headline": "Executive Director, Private Bank Digital",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//6//f//r//6//c//1516302631557-120x120.jpeg"
+     },
+     {
+      "Id": 84,
+      "FullName": "Saurav Mukherjee",
+      "CompanyName": "Goldman Sachs",
+      "Headline": "Vice President, Corporate Treasury",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//r//8//a//f//r//saurav-120x120.jpeg"
+     },
+     {
+      "Id": 85,
+      "FullName": "Miguel Navarro",
+      "CompanyName": "KeyBank",
+      "Headline": "Executive Technology Leader and Patented Inventor",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//y//0//x//a//5//miguel-navarro-120x120.png"
+     },
+     {
+      "Id": 86,
+      "FullName": "Curt Queyrouze",
+      "CompanyName": "Coastal Community Bank",
+      "Headline": "President",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//l//5//9//8//q//62a9e5187118a76e83f203e2-untitled20design2016.png"
+     },
+     {
+      "Id": 87,
+      "FullName": "Allan Rayson",
+      "CompanyName": "Encore Bank",
+      "Headline": "EVP, CTO, Chief Innovation Officer",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//y//6//0//v//d//das0101-web-1-120x120.png"
+     },
+     {
+      "Id": 88,
+      "FullName": "Joe Rodriguez",
+      "CompanyName": "Cloudera",
+      "Headline": "Managing Director, Financial Services",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//r//l//0//5//3//joe-rodriguez-head-shot-scaled-120x120.jpeg"
+     },
+     {
+      "Id": 89,
+      "FullName": "Anish Shah",
+      "CompanyName": "BNY Mellon",
+      "Headline": "Managing Director, Head of Product and Digital",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//g//x//o//6//a//anish-shah-1-120x120.png"
+     },
+     {
+      "Id": 90,
+      "FullName": "Marika Vilen",
+      "CompanyName": "Experian",
+      "Headline": "Senior Vice President, Platform Commercialization, Global Identity and Fraud",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//i//l//t//y//y//marika-120x120.jpeg"
+     },
+     {
+      "Id": 91,
+      "FullName": "Fulco Werner",
+      "CompanyName": "ING",
+      "Headline": "Director Transaction Services",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//c//f//5//3//e//fulco-werner-dec-2019-120x120.png"
+     },
+     {
+      "Id": 92,
+      "FullName": "Pam Piligian",
+      "CompanyName": "Navy Federal Credit Union",
+      "Headline": "SVP, Marketing & Communications",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//8//f//c//3//x//drranodvpvjstozsxj4qjfkzyzfyugbdlhmdzz4p.png"
+     },
+     {
+      "Id": 93,
+      "FullName": "Sumeet Grover",
+      "CompanyName": "Alliant Credit Union",
+      "Headline": "Chief Digital & Marketing Officer",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//j//6//k//e//r//mpfpxeckxq2fo4vhc4pcrvce5ldaholpot3fyq1i.png"
+     },
+     {
+      "Id": 94,
+      "FullName": "Patrick Kelly",
+      "CompanyName": "First Horizon Bank",
+      "Headline": "Chief Digital Officer",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//9//a//z//3//7//10hanoulabdmvgihotsizo5op0b5cozbbebxfyxw.png"
+     },
+     {
+      "Id": 95,
+      "FullName": "Brandon Mcgee",
+      "CompanyName": "A+ Federal Credit Union",
+      "Headline": "Chief Digital Strategy Officer",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//0//k//w//c//k//lvidgaa6tqux2pfrctjs6uvqurqa5aijjbzwdj15.png"
+     },
+     {
+      "Id": 96,
+      "FullName": "Allan Rayson",
+      "CompanyName": "Encore Bank",
+      "Headline": "EVP, CTO, Chief Innovation Officer",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//y//6//0//v//d//das0101-web-1-120x120.png"
+     },
+     {
+      "Id": 97,
+      "FullName": "Greg Smith",
+      "CompanyName": "City National Bank",
+      "Headline": "SVP, Digital Channels & Innovation",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//9//z//b//u//j//v8b6rr9bhvo7c19krd8oekdrbty6ibybcn4ez7sy.png"
+     },
+     {
+      "Id": 98,
+      "FullName": "Lily Li",
+      "CompanyName": "CITI",
+      "Headline": "Senior Vice President, Citi Global Wealth, USA",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//g//4//o//z//2//gmyopek8bphz1u1wrnuzeffxtttut6ovvbygre6o.png"
+     },
+     {
+      "Id": 99,
+      "FullName": "Bjorn Austraat",
+      "CompanyName": "Truist",
+      "Headline": "Head of AI Acceleration",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//6//y//x//8//a//austraat-headshot-004-sq.jpeg"
+     },
+     {
+      "Id": 100,
+      "FullName": "Dhar Ishet",
+      "CompanyName": "M&T Bank",
+      "Headline": "Chief Digital Officer",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//x//h//5//b//2//gprlz23sultlauaglnhhy1hdpbaizy1bavcsrbek.png"
+     },
+     {
+      "Id": 101,
+      "FullName": "Gaurav Bhatia",
+      "CompanyName": "PenFed Credit Union",
+      "Headline": "Chief Marketing & Digital Officer",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//p//9//w//a//a//dzwxizwpodbs1ndrlwhv6norrlilv5yz66wudw5o.png"
+     },
+     {
+      "Id": 102,
+      "FullName": "Jay Tkachuk",
+      "CompanyName": "Golden 1 Credit Union",
+      "Headline": "Chief Digital Officer",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//d//y//9//v//d//eaayax85eoshcv5k2z7bq8zypucn03rjsdkfjlgl.png"
+     },
+     {
+      "Id": 103,
+      "FullName": "Brian Knollenberg",
+      "CompanyName": "BECU",
+      "Headline": "SVP, Marketing",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//8//y//p//x//z//7bjrpjyq7xqccwnxdj37fhosywhcqtczrlvj5zwj.png"
+     },
+     {
+      "Id": 104,
+      "FullName": "Tricia Szurgot",
+      "CompanyName": "Securityplus Federal Credit Union",
+      "Headline": "President & CEO",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//n//r//h//m//7//ij6ssav4e1smvayoawr2civwwzbat19ctcrnaimv.png"
+     },
+     {
+      "Id": 105,
+      "FullName": "Ruchi Gupta",
+      "CompanyName": "People's United Bank",
+      "Headline": "Head of Enterprise Digitization Bank Transformation",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//6//t//2//j//a//tviky1wr0asqfqnhufdt4f54evnutx44vvgskboz.png"
+     },
+     {
+      "Id": 106,
+      "FullName": "Katherine Lucas",
+      "CompanyName": "State Street Corporation",
+      "Headline": "Head of Marketing & Communication",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//0//m//f//7//l//8yzutezu4ydjlphzeibjt0vgymb9flfb2pfff7mr.png"
+     },
+     {
+      "Id": 107,
+      "FullName": "Barbara Widholm",
+      "CompanyName": "State Street Digital",
+      "Headline": "Vice President",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//d//7//p//a//u//barbara-widholm-1.webp"
+     },
+     {
+      "Id": 108,
+      "FullName": "Megan Lotay",
+      "CompanyName": "USAA",
+      "Headline": "Executive Director, Senior Experience Owner",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//0//c//c//d//u//xamphqitbtxiomrkfl2uv9iy0riklbyg1fret5zx.png"
+     },
+     {
+      "Id": 109,
+      "FullName": "Denise Rossi Henn",
+      "CompanyName": "PNC  Bank",
+      "Headline": "Sr. Vice President, Group Experience Manager, Digital",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//t//c//e//m//0//h2o2mxciqnhnn6kc6kt36k3dexkjoejfvvub7kcx.png"
+     },
+     {
+      "Id": 110,
+      "FullName": "Mallika Daswani",
+      "CompanyName": "TD Bank",
+      "Headline": "VP Digital Channels - Online Banking",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//7//w//b//l//l//crz5hxmgpxblgdpjbzpcpwf0zhlfnmlr9owx81fg.png"
+     },
+     {
+      "Id": 111,
+      "FullName": "Mike Balsam",
+      "CompanyName": "Wells Fargo",
+      "Headline": "Manager, Wealth Digital & Innovation, VP, Wealth & Investment Management",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//j//x//p//g//x//3zkukhjzzvk0v2iw1wrri80oynqqekkbm53b4h8t.png"
+     },
+     {
+      "Id": 112,
+      "FullName": "Luther Maday",
+      "CompanyName": "Moneygram",
+      "Headline": "Head of Innovation",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//2//x//l//b//y//d60823947bf748ed81f06876b2faba0c-f8a820a8c858b73a2ca751a3fdd68e7f.webp"
+     },
+     {
+      "Id": 113,
+      "FullName": "Juhaan Johar",
+      "CompanyName": "AMERIPRISE FINANCIAL SERVICES, INC.",
+      "Headline": "Director – Head of Digital Analytics | Marketing Strategy & Analytics",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//s//u//2//o//t//itupieziyquiagfw6jtrjbfpwc5qcslcewirxlqi.png"
+     },
+     {
+      "Id": 114,
+      "FullName": "Richard Booth",
+      "CompanyName": "Western Alliance Bank",
+      "Headline": "Senior Director, Blockchain & Digital Assets",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//9//0//m//y//l//cr6xmrb3eei5pyrfl9qz7evcm1bpxmzxjvpqmhyv.png"
+     },
+     {
+      "Id": 115,
+      "FullName": "Mark Wanish",
+      "CompanyName": "TIAA",
+      "Headline": "Head of Digital Messaging, Marketing Technology, & Outbound Engagement",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//u//k//q//q//m//pe0ihqpzzjjyb5ysns7ig0qashc8egxphyxqsd9c.png"
+     },
+     {
+      "Id": 116,
+      "FullName": "Vivian Yeung",
+      "CompanyName": "Fremont Bank",
+      "Headline": "Chief Digital & Technology Officer, EVP",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//w//y//r//c//n//vivian-yeung-3-cc93f35edaddf2196e09f866ea25dd2c.jpeg"
+     },
+     {
+      "Id": 117,
+      "FullName": "Martin Schrodt",
+      "CompanyName": "Simmons Bank",
+      "Headline": "SVP, Director of Retail Strategy and Corporate Design",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//7//8//8//m//t//atyr5yq3ux5j3cspd6iodu4isgwq0sxyw2lwtmzt.png"
+     },
+     {
+      "Id": 118,
+      "FullName": "Patrick Neff",
+      "CompanyName": "Southeast Toyota Finance",
+      "Headline": "Principal Manager of Marketing & Digital Experience",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//1//5//6//h//9//tmbmxauqxpueompkbo5d3ds9fvfzbvpxih8d6kky.png"
+     },
+     {
+      "Id": 119,
+      "FullName": "Chelsea Lawley",
+      "CompanyName": "Charles Schwab",
+      "Headline": "Managing Director, Digital Analytics",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//h//y//w//f//n//pvpi8slq0qkqbxurhygxfbqovi6xqsxodzns1dsl.png"
+     },
+     {
+      "Id": 120,
+      "FullName": "Tamra O'donnell",
+      "CompanyName": "Canandaigua National Bank & Trust",
+      "Headline": "SVP, Director Corporate Marketing",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//t//4//x//o//v//3q7w8smqz7bl7wz8bg2lckv4dnhejq37bgdomyij.png"
+     },
+     {
+      "Id": 121,
+      "FullName": "Aris Jerahian",
+      "CompanyName": "Oregon Community Credit Union",
+      "Headline": "Vice President Payments & Digital Experience",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//b//o//7//k//f//5aoi4qttut3kabgqm3pbcwjf72hcxhjqfmdy6lli.png"
+     },
+     {
+      "Id": 122,
+      "FullName": "Jeremy O'niel",
+      "CompanyName": "Hapo Community Credit Union",
+      "Headline": "VP of Marketing",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//f//i//4//m//k//guwdufhjzewprihbk5k8othh6mbqgo5ornrs3nsr.png"
+     },
+     {
+      "Id": 123,
+      "FullName": "Steven Pierce",
+      "CompanyName": "Black Hills Federal Credit Union",
+      "Headline": "Vice President, Innovation",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//8//d//h//3//a//5jzkip8v99nwjgfx4eqjkwllgwur3ewv5isit7nh.png"
+     },
+     {
+      "Id": 124,
+      "FullName": "Tiffani Montez",
+      "CompanyName": "Insider Intelligence",
+      "Headline": "Principal Analyst, Banking",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//r//f//i//e//0//tiffani-montez-2-6a7da7adc72cf7a17b8db4eb9428573c.png"
+     },
+     {
+      "Id": 125,
+      "FullName": "Lonnie Talbert",
+      "CompanyName": "ATM Industry Association",
+      "Headline": "CEO",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//6//f//0//d//x//2ixy1dihmu2vvnvoztyesvktlj9qtpjahq1eskhp.png"
+     },
+     {
+      "Id": 126,
+      "FullName": "Christopher Frankland",
+      "CompanyName": "InsurTech360",
+      "Headline": "CEO",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//h//j//r//7//e//vv2ddoxz6a2ahv8waam3m2xil5pv7f4eoxtaujwd.png"
+     },
+     {
+      "Id": 127,
+      "FullName": "Ryan Kulp",
+      "CompanyName": "WBR",
+      "Headline": "Portfolio Director",
+      "ImageUrl": "http://ip1-cdn.marketglass.com//uploads//images//w//f//y//2//8//kxgvwrho6d1rxthx5qsdxmbtywhmf3xkycwqaw0u.png"
+     }
+    ]
+
+    }

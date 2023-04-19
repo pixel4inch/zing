@@ -1,0 +1,1430 @@
+{
+"domainlist":[
+ {
+  "Id": 1,
+  "Name": "3D Printing"
+ },
+ {
+  "Id": 2,
+  "Name": "Academia & Alumni"
+ },
+ {
+  "Id": 3,
+  "Name": "Accelerators & Incubators"
+ },
+ {
+  "Id": 4,
+  "Name": "Administration Of Economic Programs"
+ },
+ {
+  "Id": 5,
+  "Name": "Administration Of Environmental Quality & Housing Programs"
+ },
+ {
+  "Id": 6,
+  "Name": "Administration Of Human Resource Programs"
+ },
+ {
+  "Id": 7,
+  "Name": "Adult"
+ },
+ {
+  "Id": 8,
+  "Name": "Advanced Materials"
+ },
+ {
+  "Id": 9,
+  "Name": "Advertising"
+ },
+ {
+  "Id": 10,
+  "Name": "Aerospace"
+ },
+ {
+  "Id": 11,
+  "Name": "Agricultural Services"
+ },
+ {
+  "Id": 12,
+  "Name": "AgriTech"
+ },
+ {
+  "Id": 13,
+  "Name": "AI & ML"
+ },
+ {
+  "Id": 14,
+  "Name": "Air Transportation"
+ },
+ {
+  "Id": 15,
+  "Name": "Alcoholic Beverages "
+ },
+ {
+  "Id": 16,
+  "Name": "Alternative Medicine"
+ },
+ {
+  "Id": 17,
+  "Name": "Amusement & Recreation Services"
+ },
+ {
+  "Id": 18,
+  "Name": "Angel Investment"
+ },
+ {
+  "Id": 19,
+  "Name": "Apps"
+ },
+ {
+  "Id": 20,
+  "Name": "AR & VR & XR"
+ },
+ {
+  "Id": 21,
+  "Name": "Architecture"
+ },
+ {
+  "Id": 22,
+  "Name": "Art"
+ },
+ {
+  "Id": 23,
+  "Name": "Asset Management"
+ },
+ {
+  "Id": 24,
+  "Name": "Assistive Technology"
+ },
+ {
+  "Id": 25,
+  "Name": "Association"
+ },
+ {
+  "Id": 26,
+  "Name": "Audiobooks"
+ },
+ {
+  "Id": 27,
+  "Name": "Automotive Dealers & Gasoline Service Stations"
+ },
+ {
+  "Id": 28,
+  "Name": "Autonomous Vehicles"
+ },
+ {
+  "Id": 29,
+  "Name": "B2B"
+ },
+ {
+  "Id": 30,
+  "Name": "B2C"
+ },
+ {
+  "Id": 31,
+  "Name": "Baby Care"
+ },
+ {
+  "Id": 32,
+  "Name": "Back Office Services"
+ },
+ {
+  "Id": 33,
+  "Name": "Banking"
+ },
+ {
+  "Id": 34,
+  "Name": "Battery Technologies"
+ },
+ {
+  "Id": 35,
+  "Name": "Beauty & Cosmetics"
+ },
+ {
+  "Id": 36,
+  "Name": "Big Data"
+ },
+ {
+  "Id": 37,
+  "Name": "Biofuel"
+ },
+ {
+  "Id": 38,
+  "Name": "Biometrics"
+ },
+ {
+  "Id": 39,
+  "Name": "Biotech"
+ },
+ {
+  "Id": 40,
+  "Name": "Blockchain"
+ },
+ {
+  "Id": 41,
+  "Name": "Blogging Platforms"
+ },
+ {
+  "Id": 42,
+  "Name": "Broadcasting"
+ },
+ {
+  "Id": 43,
+  "Name": "Building Construction Services"
+ },
+ {
+  "Id": 44,
+  "Name": "Building Maintenance"
+ },
+ {
+  "Id": 45,
+  "Name": "Building Materials & Equipment "
+ },
+ {
+  "Id": 46,
+  "Name": "Business Intelligence"
+ },
+ {
+  "Id": 47,
+  "Name": "Business Services"
+ },
+ {
+  "Id": 48,
+  "Name": "CAD"
+ },
+ {
+  "Id": 49,
+  "Name": "Call Center"
+ },
+ {
+  "Id": 50,
+  "Name": "Cannabis"
+ },
+ {
+  "Id": 51,
+  "Name": "Career Planning"
+ },
+ {
+  "Id": 52,
+  "Name": "Celebrity"
+ },
+ {
+  "Id": 53,
+  "Name": "Charity"
+ },
+ {
+  "Id": 54,
+  "Name": "Chemical Engineering"
+ },
+ {
+  "Id": 55,
+  "Name": "Chemicals & Allied Products"
+ },
+ {
+  "Id": 56,
+  "Name": "Children"
+ },
+ {
+  "Id": 57,
+  "Name": "CivicTech"
+ },
+ {
+  "Id": 58,
+  "Name": "Civil Engineering"
+ },
+ {
+  "Id": 59,
+  "Name": "Cleantech (GreenTech)"
+ },
+ {
+  "Id": 60,
+  "Name": "ClimaTech \/ Climate Tech"
+ },
+ {
+  "Id": 61,
+  "Name": "Clinical Trials"
+ },
+ {
+  "Id": 62,
+  "Name": "Cloud Technologies"
+ },
+ {
+  "Id": 63,
+  "Name": "Comics & Magazines"
+ },
+ {
+  "Id": 64,
+  "Name": "Communication Hardware\/Infrastructure"
+ },
+ {
+  "Id": 65,
+  "Name": "Communities"
+ },
+ {
+  "Id": 66,
+  "Name": "Compliance"
+ },
+ {
+  "Id": 67,
+  "Name": "Computer"
+ },
+ {
+  "Id": 68,
+  "Name": "Concerts"
+ },
+ {
+  "Id": 69,
+  "Name": "Consulting"
+ },
+ {
+  "Id": 70,
+  "Name": "Consumer Electronics"
+ },
+ {
+  "Id": 71,
+  "Name": "Consumer Fintech"
+ },
+ {
+  "Id": 72,
+  "Name": "Consumer Goods"
+ },
+ {
+  "Id": 73,
+  "Name": "Consumer Software & Apps"
+ },
+ {
+  "Id": 74,
+  "Name": "Content Management"
+ },
+ {
+  "Id": 75,
+  "Name": "Contests"
+ },
+ {
+  "Id": 76,
+  "Name": "Cooking"
+ },
+ {
+  "Id": 77,
+  "Name": "Corporate Training"
+ },
+ {
+  "Id": 78,
+  "Name": "Corrections Facilities"
+ },
+ {
+  "Id": 79,
+  "Name": "Coworking"
+ },
+ {
+  "Id": 80,
+  "Name": "Crowdfunding"
+ },
+ {
+  "Id": 81,
+  "Name": "Crypto 2025++"
+ },
+ {
+  "Id": 82,
+  "Name": "CX 360"
+ },
+ {
+  "Id": 83,
+  "Name": "Cybersecurity"
+ },
+ {
+  "Id": 84,
+  "Name": "Data & Analytics "
+ },
+ {
+  "Id": 85,
+  "Name": "Data Center"
+ },
+ {
+  "Id": 86,
+  "Name": "Database Management"
+ },
+ {
+  "Id": 87,
+  "Name": "Dating"
+ },
+ {
+  "Id": 88,
+  "Name": "Debt Collections"
+ },
+ {
+  "Id": 89,
+  "Name": "DeepTech"
+ },
+ {
+  "Id": 90,
+  "Name": "Delivery"
+ },
+ {
+  "Id": 91,
+  "Name": "Dental"
+ },
+ {
+  "Id": 92,
+  "Name": "Digital Banks"
+ },
+ {
+  "Id": 93,
+  "Name": "Digital Health"
+ },
+ {
+  "Id": 94,
+  "Name": "Digital Media"
+ },
+ {
+  "Id": 95,
+  "Name": "Diversity, Equity & Inclusion (DEI)"
+ },
+ {
+  "Id": 96,
+  "Name": "DIY"
+ },
+ {
+  "Id": 97,
+  "Name": "DRM"
+ },
+ {
+  "Id": 98,
+  "Name": "Drones"
+ },
+ {
+  "Id": 99,
+  "Name": "EBooks"
+ },
+ {
+  "Id": 100,
+  "Name": "E-Commerce"
+ },
+ {
+  "Id": 101,
+  "Name": "EdTech"
+ },
+ {
+  "Id": 102,
+  "Name": "Educational Services"
+ },
+ {
+  "Id": 103,
+  "Name": "Edutainment"
+ },
+ {
+  "Id": 104,
+  "Name": "Elder Care"
+ },
+ {
+  "Id": 105,
+  "Name": "Electric Vehicles"
+ },
+ {
+  "Id": 106,
+  "Name": "Electrical Distribution"
+ },
+ {
+  "Id": 107,
+  "Name": "Electronic Design Automation (EDA)"
+ },
+ {
+  "Id": 108,
+  "Name": "Embedded Systems"
+ },
+ {
+  "Id": 109,
+  "Name": "Energy"
+ },
+ {
+  "Id": 110,
+  "Name": "Energy Efficiency\/Management"
+ },
+ {
+  "Id": 111,
+  "Name": "Environmental Consulting"
+ },
+ {
+  "Id": 112,
+  "Name": "Environmental Engineering"
+ },
+ {
+  "Id": 113,
+  "Name": "eSports"
+ },
+ {
+  "Id": 114,
+  "Name": "European Startup Ecosystems"
+ },
+ {
+  "Id": 115,
+  "Name": "Event Management"
+ },
+ {
+  "Id": 116,
+  "Name": "Events"
+ },
+ {
+  "Id": 117,
+  "Name": "Executive, Legislative & General Government, Except Finance"
+ },
+ {
+  "Id": 118,
+  "Name": "Eyewear"
+ },
+ {
+  "Id": 119,
+  "Name": "Fabricated Metal Products"
+ },
+ {
+  "Id": 120,
+  "Name": "Facilities Support Services"
+ },
+ {
+  "Id": 121,
+  "Name": "Failure Analysis"
+ },
+ {
+  "Id": 122,
+  "Name": "Family"
+ },
+ {
+  "Id": 123,
+  "Name": "Fantasy Sports"
+ },
+ {
+  "Id": 124,
+  "Name": "Fashion & Design"
+ },
+ {
+  "Id": 125,
+  "Name": "Female Led (M)"
+ },
+ {
+  "Id": 126,
+  "Name": "Female Unicorn Founders"
+ },
+ {
+  "Id": 127,
+  "Name": "Film"
+ },
+ {
+  "Id": 128,
+  "Name": "Finance & Accounting"
+ },
+ {
+  "Id": 129,
+  "Name": "FinTech"
+ },
+ {
+  "Id": 130,
+  "Name": "Fleet Management"
+ },
+ {
+  "Id": 131,
+  "Name": "Flowers"
+ },
+ {
+  "Id": 132,
+  "Name": "Food and Beverage"
+ },
+ {
+  "Id": 133,
+  "Name": "Food Delivery"
+ },
+ {
+  "Id": 134,
+  "Name": "Food Processing"
+ },
+ {
+  "Id": 135,
+  "Name": "Food Retailing"
+ },
+ {
+  "Id": 136,
+  "Name": "Food Services"
+ },
+ {
+  "Id": 137,
+  "Name": "FoodTech"
+ },
+ {
+  "Id": 138,
+  "Name": "Forestry"
+ },
+ {
+  "Id": 139,
+  "Name": "Fuel Cell"
+ },
+ {
+  "Id": 140,
+  "Name": "Funding Platform"
+ },
+ {
+  "Id": 141,
+  "Name": "Fundraising in 2023"
+ },
+ {
+  "Id": 142,
+  "Name": "Funerals"
+ },
+ {
+  "Id": 143,
+  "Name": "Furniture"
+ },
+ {
+  "Id": 144,
+  "Name": "Future of Work"
+ },
+ {
+  "Id": 145,
+  "Name": "Gambling"
+ },
+ {
+  "Id": 146,
+  "Name": "Gamification"
+ },
+ {
+  "Id": 147,
+  "Name": "Gaming"
+ },
+ {
+  "Id": 148,
+  "Name": "GEN Z"
+ },
+ {
+  "Id": 149,
+  "Name": "Generation Y"
+ },
+ {
+  "Id": 150,
+  "Name": "Geospatial"
+ },
+ {
+  "Id": 151,
+  "Name": "GovTech"
+ },
+ {
+  "Id": 152,
+  "Name": "GPS"
+ },
+ {
+  "Id": 153,
+  "Name": "GPU"
+ },
+ {
+  "Id": 154,
+  "Name": "Graphic Design"
+ },
+ {
+  "Id": 155,
+  "Name": "Green Building"
+ },
+ {
+  "Id": 156,
+  "Name": "Green Consumer Goods"
+ },
+ {
+  "Id": 157,
+  "Name": "Hardware"
+ },
+ {
+  "Id": 158,
+  "Name": "Health Diagnostics"
+ },
+ {
+  "Id": 159,
+  "Name": "Healthcare Services"
+ },
+ {
+  "Id": 160,
+  "Name": "Hedge Funds"
+ },
+ {
+  "Id": 161,
+  "Name": "Hiring & Workforce"
+ },
+ {
+  "Id": 162,
+  "Name": "Home and Garden"
+ },
+ {
+  "Id": 163,
+  "Name": "Home Decor"
+ },
+ {
+  "Id": 164,
+  "Name": "Home Health Care"
+ },
+ {
+  "Id": 165,
+  "Name": "Home Improvement"
+ },
+ {
+  "Id": 166,
+  "Name": "Home Services"
+ },
+ {
+  "Id": 167,
+  "Name": "Homeland Security"
+ },
+ {
+  "Id": 168,
+  "Name": "Homeless Shelter"
+ },
+ {
+  "Id": 169,
+  "Name": "Horticulture"
+ },
+ {
+  "Id": 170,
+  "Name": "Hospitality"
+ },
+ {
+  "Id": 171,
+  "Name": "Human Computer Interaction"
+ },
+ {
+  "Id": 172,
+  "Name": "Human Resources"
+ },
+ {
+  "Id": 173,
+  "Name": "Humanitarian"
+ },
+ {
+  "Id": 174,
+  "Name": "Hydrogen"
+ },
+ {
+  "Id": 175,
+  "Name": "Hydroponics"
+ },
+ {
+  "Id": 176,
+  "Name": "Image Recognition"
+ },
+ {
+  "Id": 177,
+  "Name": "Impact Investment"
+ },
+ {
+  "Id": 178,
+  "Name": "Incubators"
+ },
+ {
+  "Id": 179,
+  "Name": "Industrial & Commercial Machinery & Computer Equipment"
+ },
+ {
+  "Id": 180,
+  "Name": "Industrial Automation"
+ },
+ {
+  "Id": 181,
+  "Name": "Industrial Design"
+ },
+ {
+  "Id": 182,
+  "Name": "Industrial Engineering"
+ },
+ {
+  "Id": 183,
+  "Name": "Industry 4.0"
+ },
+ {
+  "Id": 184,
+  "Name": "Information and Communications Technology (ICT)"
+ },
+ {
+  "Id": 185,
+  "Name": "Infrastructure"
+ },
+ {
+  "Id": 186,
+  "Name": "Innovation Case Studies"
+ },
+ {
+  "Id": 187,
+  "Name": "Innovation How To"
+ },
+ {
+  "Id": 188,
+  "Name": "Innovation Management"
+ },
+ {
+  "Id": 189,
+  "Name": "Innovation Thought Leaders"
+ },
+ {
+  "Id": 190,
+  "Name": "InsurTech"
+ },
+ {
+  "Id": 191,
+  "Name": "Intellectual Property"
+ },
+ {
+  "Id": 192,
+  "Name": "Interior Design"
+ },
+ {
+  "Id": 193,
+  "Name": "Internet & Online"
+ },
+ {
+  "Id": 194,
+  "Name": "Internet of Things"
+ },
+ {
+  "Id": 195,
+  "Name": "Israeli Startup Magic"
+ },
+ {
+  "Id": 196,
+  "Name": "Janitorial Service"
+ },
+ {
+  "Id": 197,
+  "Name": "Jewelry"
+ },
+ {
+  "Id": 198,
+  "Name": "Journalism"
+ },
+ {
+  "Id": 199,
+  "Name": "Justice, Public Order & Safety"
+ },
+ {
+  "Id": 200,
+  "Name": "Knowledge Management"
+ },
+ {
+  "Id": 201,
+  "Name": "Landscaping"
+ },
+ {
+  "Id": 202,
+  "Name": "Laser"
+ },
+ {
+  "Id": 203,
+  "Name": "Laundry and Dry-cleaning"
+ },
+ {
+  "Id": 204,
+  "Name": "Law Enforcement"
+ },
+ {
+  "Id": 205,
+  "Name": "Leasing"
+ },
+ {
+  "Id": 206,
+  "Name": "Legal Tech"
+ },
+ {
+  "Id": 207,
+  "Name": "Leisure & Lifestyle"
+ },
+ {
+  "Id": 208,
+  "Name": "LGBT"
+ },
+ {
+  "Id": 209,
+  "Name": "Lighting"
+ },
+ {
+  "Id": 210,
+  "Name": "Livestock Farming"
+ },
+ {
+  "Id": 211,
+  "Name": "Location Based Services"
+ },
+ {
+  "Id": 212,
+  "Name": "Logistics Services"
+ },
+ {
+  "Id": 213,
+  "Name": "Mad Science "
+ },
+ {
+  "Id": 214,
+  "Name": "Management Consulting"
+ },
+ {
+  "Id": 215,
+  "Name": "Manufacturing"
+ },
+ {
+  "Id": 216,
+  "Name": "Marine Technology"
+ },
+ {
+  "Id": 217,
+  "Name": "Market Research"
+ },
+ {
+  "Id": 218,
+  "Name": "MarTech"
+ },
+ {
+  "Id": 219,
+  "Name": "Material Technology"
+ },
+ {
+  "Id": 220,
+  "Name": "Mechanical Engineering"
+ },
+ {
+  "Id": 221,
+  "Name": "Media"
+ },
+ {
+  "Id": 222,
+  "Name": "Medical Device Innovations"
+ },
+ {
+  "Id": 223,
+  "Name": "Membership Organizations"
+ },
+ {
+  "Id": 224,
+  "Name": "Men's Community"
+ },
+ {
+  "Id": 225,
+  "Name": "Metaverse"
+ },
+ {
+  "Id": 226,
+  "Name": "Micromobility"
+ },
+ {
+  "Id": 227,
+  "Name": "Military"
+ },
+ {
+  "Id": 228,
+  "Name": "Millennials"
+ },
+ {
+  "Id": 229,
+  "Name": "Mining & Metals"
+ },
+ {
+  "Id": 230,
+  "Name": "Museums, Art Galleries & Botanical & Zoological Gardens"
+ },
+ {
+  "Id": 231,
+  "Name": "Music & Digital Entertainment"
+ },
+ {
+  "Id": 232,
+  "Name": "Nanotechnology"
+ },
+ {
+  "Id": 233,
+  "Name": "National Security & International Affairs"
+ },
+ {
+  "Id": 234,
+  "Name": "Networking (Social & Professional)"
+ },
+ {
+  "Id": 235,
+  "Name": "Neuroscience"
+ },
+ {
+  "Id": 236,
+  "Name": "News"
+ },
+ {
+  "Id": 237,
+  "Name": "Nightlife"
+ },
+ {
+  "Id": 238,
+  "Name": "Non Profit"
+ },
+ {
+  "Id": 239,
+  "Name": "Nuclear"
+ },
+ {
+  "Id": 240,
+  "Name": "Nursing and Residential Care"
+ },
+ {
+  "Id": 241,
+  "Name": "Nutraceuticals "
+ },
+ {
+  "Id": 242,
+  "Name": "Oil and Gas"
+ },
+ {
+  "Id": 243,
+  "Name": "Outdoors"
+ },
+ {
+  "Id": 244,
+  "Name": "Outsourcing"
+ },
+ {
+  "Id": 245,
+  "Name": "Packaging Services"
+ },
+ {
+  "Id": 246,
+  "Name": "Paper & Allied Products"
+ },
+ {
+  "Id": 247,
+  "Name": "Parking"
+ },
+ {
+  "Id": 248,
+  "Name": "Peer to Peer"
+ },
+ {
+  "Id": 249,
+  "Name": "Personalization"
+ },
+ {
+  "Id": 250,
+  "Name": "Pet Care"
+ },
+ {
+  "Id": 251,
+  "Name": "Petroleum Refining & Related Industries"
+ },
+ {
+  "Id": 252,
+  "Name": "Pharmaceutical"
+ },
+ {
+  "Id": 253,
+  "Name": "Photography"
+ },
+ {
+  "Id": 254,
+  "Name": "Physical Security"
+ },
+ {
+  "Id": 255,
+  "Name": "Podcast"
+ },
+ {
+  "Id": 256,
+  "Name": "Politics"
+ },
+ {
+  "Id": 257,
+  "Name": "Ports and Harbors"
+ },
+ {
+  "Id": 258,
+  "Name": "Power Grid"
+ },
+ {
+  "Id": 259,
+  "Name": "Power Women Of Tech"
+ },
+ {
+  "Id": 260,
+  "Name": "Printing & Allied Industries"
+ },
+ {
+  "Id": 261,
+  "Name": "Privacy"
+ },
+ {
+  "Id": 262,
+  "Name": "Procurement"
+ },
+ {
+  "Id": 263,
+  "Name": "Product Design\/Management"
+ },
+ {
+  "Id": 264,
+  "Name": "Professional Services"
+ },
+ {
+  "Id": 265,
+  "Name": "Project Management"
+ },
+ {
+  "Id": 266,
+  "Name": "Property Development\/Management"
+ },
+ {
+  "Id": 267,
+  "Name": "Psychology"
+ },
+ {
+  "Id": 268,
+  "Name": "Public Finance, Taxation & Monetary Policy"
+ },
+ {
+  "Id": 269,
+  "Name": "Public Relations"
+ },
+ {
+  "Id": 270,
+  "Name": "Public Safety"
+ },
+ {
+  "Id": 271,
+  "Name": "Publishing"
+ },
+ {
+  "Id": 272,
+  "Name": "Quality Assurance"
+ },
+ {
+  "Id": 273,
+  "Name": "Quantum Computing"
+ },
+ {
+  "Id": 274,
+  "Name": "Railroad Transportation"
+ },
+ {
+  "Id": 275,
+  "Name": "Real Estate"
+ },
+ {
+  "Id": 276,
+  "Name": "Recreational Vehicles"
+ },
+ {
+  "Id": 277,
+  "Name": "Recycling"
+ },
+ {
+  "Id": 278,
+  "Name": "Rehabilitation"
+ },
+ {
+  "Id": 279,
+  "Name": "Religion"
+ },
+ {
+  "Id": 280,
+  "Name": "Renewable Energy"
+ },
+ {
+  "Id": 281,
+  "Name": "Rentals"
+ },
+ {
+  "Id": 282,
+  "Name": "Reservations & Ticketing"
+ },
+ {
+  "Id": 283,
+  "Name": "Residential"
+ },
+ {
+  "Id": 284,
+  "Name": "Retail Technology"
+ },
+ {
+  "Id": 285,
+  "Name": "Retirement"
+ },
+ {
+  "Id": 286,
+  "Name": "Risk Management"
+ },
+ {
+  "Id": 287,
+  "Name": "Robotics"
+ },
+ {
+  "Id": 288,
+  "Name": "Search Engine & SEO"
+ },
+ {
+  "Id": 289,
+  "Name": "Security & Commodity Brokers, Dealers, Exchanges & Services"
+ },
+ {
+  "Id": 290,
+  "Name": "Semiconductors "
+ },
+ {
+  "Id": 291,
+  "Name": "Sensor"
+ },
+ {
+  "Id": 292,
+  "Name": "Service Industry"
+ },
+ {
+  "Id": 293,
+  "Name": "Sex Tech"
+ },
+ {
+  "Id": 294,
+  "Name": "Sharing Economy"
+ },
+ {
+  "Id": 295,
+  "Name": "Shopping"
+ },
+ {
+  "Id": 296,
+  "Name": "Simulation"
+ },
+ {
+  "Id": 297,
+  "Name": "Small and Medium Businesses"
+ },
+ {
+  "Id": 298,
+  "Name": "Smart Building"
+ },
+ {
+  "Id": 299,
+  "Name": "Smart Cities"
+ },
+ {
+  "Id": 300,
+  "Name": "Smart Home"
+ },
+ {
+  "Id": 301,
+  "Name": "Smartphones"
+ },
+ {
+  "Id": 302,
+  "Name": "Social Assistance "
+ },
+ {
+  "Id": 303,
+  "Name": "Social Entrepreneurship"
+ },
+ {
+  "Id": 304,
+  "Name": "Social Impact"
+ },
+ {
+  "Id": 305,
+  "Name": "Social Media"
+ },
+ {
+  "Id": 306,
+  "Name": "SaaS"
+ },
+ {
+  "Id": 307,
+  "Name": "Software Engineering"
+ },
+ {
+  "Id": 308,
+  "Name": "Solar"
+ },
+ {
+  "Id": 309,
+  "Name": "Space Tech"
+ },
+ {
+  "Id": 310,
+  "Name": "Speech Recognition"
+ },
+ {
+  "Id": 311,
+  "Name": "Sponsorship"
+ },
+ {
+  "Id": 312,
+  "Name": "Sports & Fitness"
+ },
+ {
+  "Id": 313,
+  "Name": "Startup Ecosystems (M)"
+ },
+ {
+  "Id": 314,
+  "Name": "STEM Education "
+ },
+ {
+  "Id": 315,
+  "Name": "Stock Exchanges"
+ },
+ {
+  "Id": 316,
+  "Name": "Subscription Service"
+ },
+ {
+  "Id": 317,
+  "Name": "Supply Chain Management"
+ },
+ {
+  "Id": 318,
+  "Name": "Surgery"
+ },
+ {
+  "Id": 319,
+  "Name": "Sustainability"
+ },
+ {
+  "Id": 320,
+  "Name": "Tech Wizards"
+ },
+ {
+  "Id": 321,
+  "Name": "Teenagers"
+ },
+ {
+  "Id": 322,
+  "Name": "Telecom & 5G"
+ },
+ {
+  "Id": 323,
+  "Name": "Textiles"
+ },
+ {
+  "Id": 324,
+  "Name": "Theatre"
+ },
+ {
+  "Id": 325,
+  "Name": "Therapeutics"
+ },
+ {
+  "Id": 326,
+  "Name": "Timeshare"
+ },
+ {
+  "Id": 327,
+  "Name": "Tobacco Products"
+ },
+ {
+  "Id": 328,
+  "Name": "Toys "
+ },
+ {
+  "Id": 329,
+  "Name": "Trade Shows"
+ },
+ {
+  "Id": 330,
+  "Name": "Translation Service "
+ },
+ {
+  "Id": 331,
+  "Name": "Transportation Equipment"
+ },
+ {
+  "Id": 332,
+  "Name": "Transportation Services"
+ },
+ {
+  "Id": 333,
+  "Name": "Travel & Tourism"
+ },
+ {
+  "Id": 334,
+  "Name": "Tutoring"
+ },
+ {
+  "Id": 335,
+  "Name": "Underserved Children"
+ },
+ {
+  "Id": 336,
+  "Name": "Postal Services"
+ },
+ {
+  "Id": 337,
+  "Name": "Venture Capital"
+ },
+ {
+  "Id": 338,
+  "Name": "Veterinary"
+ },
+ {
+  "Id": 339,
+  "Name": "Video Conferencing"
+ },
+ {
+  "Id": 340,
+  "Name": "Video Streaming "
+ },
+ {
+  "Id": 341,
+  "Name": "Virtualization"
+ },
+ {
+  "Id": 342,
+  "Name": "Warehousing"
+ },
+ {
+  "Id": 343,
+  "Name": "Waste Management"
+ },
+ {
+  "Id": 344,
+  "Name": "Water"
+ },
+ {
+  "Id": 345,
+  "Name": "Water Transportation"
+ },
+ {
+  "Id": 346,
+  "Name": "Wealth Management "
+ },
+ {
+  "Id": 347,
+  "Name": "Wearables"
+ },
+ {
+  "Id": 348,
+  "Name": "Web 3.0"
+ },
+ {
+  "Id": 349,
+  "Name": "Web Design"
+ },
+ {
+  "Id": 350,
+  "Name": "Wedding"
+ },
+ {
+  "Id": 351,
+  "Name": "Wellbeing"
+ },
+ {
+  "Id": 352,
+  "Name": "Wholesale "
+ },
+ {
+  "Id": 353,
+  "Name": "Wind Energy "
+ },
+ {
+  "Id": 354,
+  "Name": "Wired Communications Technology"
+ },
+ {
+  "Id": 355,
+  "Name": "Wireless Communications Technology"
+ },
+ {
+  "Id": 356,
+  "Name": "Women's Community"
+ }
+],
+"Sheet2":[],
+"Sheet3":[]
+}

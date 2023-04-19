@@ -1,0 +1,36 @@
+{
+"eventslist":[
+ {
+  "Event": "ai",
+  "EventYear": 2023,
+  "EventMonth": "April",
+  "EventDate": "April 03",
+  "EventTime": "2.30pm",
+  "EventTitle": "AgriTech",
+  "EventSubtitle": "Global Virtual Summits",
+  "EventInfograph": "./images/evolv/data/AgriTech.jpg",
+  "EventIcon":"./images/evolv/icons/AgriTech.png",
+  "EventMultiple":"Multi",
+  "EventLink":"./agritech.html",
+  "EventDataGraphic":"yes",
+  "EventDomanLink":"https://www.strategyr.com/evolv/calender_Show_Event_Speakers.asp?SrcType=%EC%26%D0%E779%87%D8%2B%EC%86%B0%C1%81%7Bo%C8&ShowType=%FE%23%D2%EB92%81%CE&EID=%99a%9B%BFc"
+ },
+ {
+    "Event": "edtech",
+    "EventYear": 2023,
+    "EventMonth": "May",
+    "EventDate": "May 02",
+    "EventTime": "12.30pm",
+    "EventTitle": "EdTech",
+    "EventSubtitle": "Global Virtual Summits",
+    "EventInfograph": "./images/evolv/data/Edtech.jpg",
+    "EventIcon":"./images/evolv/icons/EdTech.png",
+    "EventMultiple":"",
+    "EventLink":"./edtech.html",
+    "EventDataGraphic":"yes",
+    "EventDomanLink":"https://www.strategyr.com/evolv/calender_Show_Event_Speakers.asp?SrcType=%E87%C2%E93%23%9A%D2%21%E3%9B%BB%CC%84%7C%7E%91%F1%29Y%0A%C4b%193&amp;ShowType=%FE%23%D2%EB92%81%CE&amp;EID=%9C%60%9B%BBk%60"
+   }
+ 
+]
+
+}

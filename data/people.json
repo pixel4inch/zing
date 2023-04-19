@@ -1,0 +1,1534 @@
+{
+    "startuppeople": [
+      {
+        "OrganizationName": "OpenAI",
+        "Headquarters Location": "San Francisco, California, United States",
+        "Website": "https://www.openai.com",
+        "Facebook": "https://www.facebook.com/openai.research",
+        "LinkedIn": "https://www.linkedin.com/company/openai",
+        "Contact Email": "press@openai.com"
+      },
+      {
+        "OrganizationName": "Jasper",
+        "Headquarters Location": "Austin, Texas, United States",
+        "Website": "https://jasper.ai",
+        "Facebook": "https://www.facebook.com/heyjasperai",
+        "LinkedIn": "https://www.linkedin.com/company/heyjasperai",
+        "Contact Email": "hey@jasper.ai"
+      },
+      {
+        "OrganizationName": "Physics Wallah",
+        "Headquarters Location": "Noida, Uttar Pradesh, India",
+        "Website": "https://www.pw.live",
+        "Facebook": "https://www.facebook.com/physicswallah",
+        "LinkedIn": "https://in.linkedin.com/company/physicswallah",
+        "Contact Email": "support@pw.live"
+      },
+      {
+        "OrganizationName": "Orange DAO",
+        "Headquarters Location": "San Francisco, California, United States",
+        "Website": "https://orangedao.xyz/",
+        "LinkedIn": "https://www.linkedin.com/company/orange-fund"
+      },
+      {
+        "OrganizationName": "54gene",
+        "Headquarters Location": "Washington, District of Columbia, United States",
+        "Website": "https://www.54gene.com",
+        "Facebook": "https://www.facebook.com/54gene",
+        "LinkedIn": "https://www.linkedin.com/company/54gene",
+        "Contact Email": "hello@54gene.com"
+      },
+      {
+        "OrganizationName": "Stability AI",
+        "Headquarters Location": "London, England, United Kingdom",
+        "Website": "https://www.stability.ai",
+        "LinkedIn": "https://www.linkedin.com/company/stability-ai",
+        "Contact Email": "info@stability.ai"
+      },
+      {
+        "OrganizationName": "Ascend Elements",
+        "Headquarters Location": "Westborough, Massachusetts, United States",
+        "Website": "https://ascendelements.com",
+        "LinkedIn": "https://www.linkedin.com/company/battery-resourcers",
+        "Contact Email": "info@ascendelements.com"
+      },
+      {
+        "OrganizationName": "Versa Networks",
+        "Headquarters Location": "Santa Clara, California, United States",
+        "Website": "http://www.versa-networks.com",
+        "Facebook": "https://www.facebook.com/VersaNetworks",
+        "LinkedIn": "https://www.linkedin.com/company/versa-networks",
+        "Contact Email": "info@versa-networks.com"
+      },
+      {
+        "OrganizationName": "Nothing",
+        "Headquarters Location": "London, England, United Kingdom",
+        "Website": "https://nothing.tech/",
+        "Facebook": "https://www.facebook.com/Nothing-Technology-724644021637509",
+        "LinkedIn": "https://www.linkedin.com/company/nothingtech/"
+      },
+      {
+        "OrganizationName": "Bilt Rewards",
+        "Headquarters Location": "New York, New York, United States",
+        "Website": "https://www.biltrewards.com/",
+        "Facebook": "https://www.facebook.com/biltrewards",
+        "LinkedIn": "https://www.linkedin.com/company/biltrewards/",
+        "Contact Email": "support@biltrewards.com"
+      },
+      {
+        "OrganizationName": "IndieBio",
+        "Headquarters Location": "San Francisco, California, United States",
+        "Website": "http://www.indiebio.co",
+        "Facebook": "http://www.facebook.com/indiebio",
+        "LinkedIn": "https://www.linkedin.com/company/17958584/",
+        "Contact Email": "parikshit.sharma@sosv.com"
+      },
+      {
+        "OrganizationName": "Vinfast",
+        "Headquarters Location": "Hai Phong, NA - Vietnam, Vietnam",
+        "Website": "http://vinfast.vn",
+        "Facebook": "https://www.facebook.com/VinFastGlobalOfficial",
+        "LinkedIn": "https://www.linkedin.com/company/vinfast-llc",
+        "Contact Email": "support.vn@vinfastauto.com"
+      },
+      {
+        "OrganizationName": "Celsius Network",
+        "Headquarters Location": "London, England, United Kingdom",
+        "Website": "https://celsius.network",
+        "Facebook": "https://www.facebook.com/celsiusnetwork",
+        "LinkedIn": "https://www.linkedin.com/company/celsiusnetwork",
+        "Contact Email": "hello@celsius.network"
+      },
+      {
+        "OrganizationName": "JUUL",
+        "Headquarters Location": "San Francisco, California, United States",
+        "Website": "https://www.juul.com",
+        "Contact Email": "press@juul.com."
+      },
+      {
+        "OrganizationName": "Apiiro",
+        "Headquarters Location": "New York, New York, United States",
+        "Website": "https://www.apiiro.com",
+        "Facebook": "https://www.facebook.com/Apiiro",
+        "LinkedIn": "https://www.linkedin.com/company/apiiro",
+        "Contact Email": "info@apiiro.com"
+      },
+      {
+        "OrganizationName": "Protocol Labs",
+        "Headquarters Location": "San Francisco, California, United States",
+        "Website": "https://protocol.ai",
+        "Facebook": "https://www.facebook.com/protocollabs",
+        "LinkedIn": "https://www.linkedin.com/company/protocollabs"
+      },
+      {
+        "OrganizationName": "Mysten Labs",
+        "Headquarters Location": "Palo Alto, California, United States",
+        "Website": "https://www.mystenlabs.com",
+        "LinkedIn": "https://www.linkedin.com/company/mysten-labs",
+        "Contact Email": "info@mystenlabs.com"
+      },
+      {
+        "OrganizationName": "Factorial",
+        "Headquarters Location": "Barcelona, Catalonia, Spain",
+        "Website": "https://factorialhr.com",
+        "Facebook": "https://www.facebook.com/factorialhr",
+        "LinkedIn": "https://www.linkedin.com/company/factorialhr",
+        "Contact Email": "info@factorial.co"
+      },
+      {
+        "OrganizationName": "FTX",
+        "Headquarters Location": "Nassau, New Providence, Bahamas",
+        "Website": "https://ftx.com",
+        "Facebook": "https://www.facebook.com/ftx.official",
+        "LinkedIn": "https://www.linkedin.com/company/ftx",
+        "Contact Email": "support@ftx.com"
+      },
+      {
+        "OrganizationName": "Octopus Energy",
+        "Headquarters Location": "London, England, United Kingdom",
+        "Website": "https://octopus.energy/",
+        "Facebook": "https://www.facebook.com/octopusenergy",
+        "LinkedIn": "https://www.linkedin.com/company/octopus-energy",
+        "Contact Email": "hello@octopus.energy"
+      },
+      {
+        "OrganizationName": "Yuga Labs",
+        "Headquarters Location": "Miami, Florida, United States",
+        "Website": "https://yuga.com",
+        "Facebook": "https://www.instagram.com/boredapeyachtclub",
+        "LinkedIn": "https://www.linkedin.com/company/yuga-labs",
+        "Contact Email": "hi@yugalabs.io"
+      },
+      {
+        "OrganizationName": "Cyble",
+        "Headquarters Location": "Alpharetta, Georgia, United States",
+        "Website": "https://cyble.com",
+        "Facebook": "https://www.facebook.com/cybleau",
+        "LinkedIn": "https://www.linkedin.com/company/cyble-australia",
+        "Contact Email": "contact@cyble.com"
+      },
+      {
+        "OrganizationName": "ZoomCar",
+        "Headquarters Location": "Bangalore, Karnataka, India",
+        "Website": "http://www.zoomcar.com",
+        "Facebook": "http://www.facebook.com/zoomcar.in",
+        "LinkedIn": "https://www.linkedin.com/company/zoomcar-india-pvt-ltd-",
+        "Contact Email": "info@zoomcar.in"
+      },
+      {
+        "OrganizationName": "gener8tor",
+        "Headquarters Location": "Madison, Wisconsin, United States",
+        "Website": "http://www.gener8tor.com",
+        "Facebook": "http://www.facebook.com/gener8tor",
+        "LinkedIn": "http://www.linkedin.com/company/gener8tor",
+        "Contact Email": "info@gener8tor.com"
+      },
+      {
+        "OrganizationName": "Astra",
+        "Headquarters Location": "Menlo Park, California, United States",
+        "Website": "https://astra.finance",
+        "Facebook": "https://www.facebook.com/astratechnology",
+        "LinkedIn": "https://www.linkedin.com/company/astra.finance",
+        "Contact Email": "hello@astra.finance"
+      },
+      {
+        "OrganizationName": "Sense",
+        "Headquarters Location": "Cambridge, Massachusetts, United States",
+        "Website": "https://sense.com/",
+        "Facebook": "https://www.facebook.com/sense/",
+        "LinkedIn": "https://www.linkedin.com/company/sense/",
+        "Contact Email": "press@sense.com"
+      },
+      {
+        "OrganizationName": "Bitcoin",
+        "Headquarters Location": "San Francisco, California, United States",
+        "Website": "https://bitcoin.team"
+      },
+      {
+        "OrganizationName": "OpenWeb",
+        "Headquarters Location": "New York, New York, United States",
+        "Website": "https://www.openweb.com",
+        "Facebook": "https://www.facebook.com/OpenWebHQ",
+        "LinkedIn": "http://www.linkedin.com/company/openwebhq",
+        "Contact Email": "hello@openweb.com"
+      },
+      {
+        "OrganizationName": "Startup Wise Guys",
+        "Headquarters Location": "Tallinn, Harjumaa, Estonia",
+        "Website": "http://www.startupwiseguys.com",
+        "Facebook": "http://www.facebook.com/StartupWiseGuys",
+        "LinkedIn": "https://www.linkedin.com/company/startup-wise-guys",
+        "Contact Email": "info@startupwiseguys.com"
+      },
+      {
+        "OrganizationName": "Arta Finance",
+        "Headquarters Location": "Mountain View, California, United States",
+        "Website": "https://www.artafinance.com",
+        "LinkedIn": "https://www.linkedin.com/company/arta-finance",
+        "Contact Email": "support@artafinance.com"
+      },
+      {
+        "OrganizationName": "Chainlink",
+        "Headquarters Location": "Grand Cayman, Midland, Cayman Islands",
+        "Website": "https://chain.link/",
+        "Facebook": "https://www.facebook.com/chainlink.smartcontract/",
+        "Contact Email": "support@chain.link"
+      },
+      {
+        "OrganizationName": "Bolttech",
+        "Headquarters Location": "Singapore, Central Region, Singapore",
+        "Website": "https://bolttech.io",
+        "Facebook": "https://www.facebook.com/bolttechdp.asia/",
+        "LinkedIn": "https://www.linkedin.com/company/bolttech",
+        "Contact Email": "enquiries@bolttech.io"
+      },
+      {
+        "OrganizationName": "Zume",
+        "Headquarters Location": "Camarillo, California, United States",
+        "Website": "http://www.zume.com/",
+        "Facebook": "https://www.facebook.com/zumeinc",
+        "LinkedIn": "https://www.linkedin.com/company/zumeinc",
+        "Contact Email": "media@zume.com"
+      },
+      {
+        "OrganizationName": "Ather Energy",
+        "Headquarters Location": "Bangalore, Karnataka, India",
+        "Website": "http://www.atherenergy.com",
+        "Facebook": "http://www.facebook.com/atherenergy",
+        "LinkedIn": "http://www.linkedin.com/company/ather-energy",
+        "Contact Email": "info@atherenergy.com"
+      },
+      {
+        "OrganizationName": "EXPERT DOJO",
+        "Headquarters Location": "Santa Monica, California, United States",
+        "Website": "http://www.expertdojo.com",
+        "Facebook": "https://www.facebook.com/ExpertDOJO/",
+        "LinkedIn": "https://www.linkedin.com/company/6636388/admin/",
+        "Contact Email": "info@expertdojo.com"
+      },
+      {
+        "OrganizationName": "Inflection Point Ventures",
+        "Headquarters Location": "Gurgaon, Haryana, India",
+        "Website": "https://ipventures.in/",
+        "Facebook": "https://www.facebook.com/ipventures.in/",
+        "LinkedIn": "https://www.linkedin.com/company/ipventures/",
+        "Contact Email": "info@ipventures.in"
+      },
+      {
+        "OrganizationName": "ConsenSys",
+        "Headquarters Location": "Brooklyn, New York, United States",
+        "Website": "http://www.consensys.net",
+        "Facebook": "https://www.facebook.com/consensussystems/",
+        "LinkedIn": "https://www.linkedin.com/company/consensus-systems-consensys-/",
+        "Contact Email": "info@consensys.net"
+      },
+      {
+        "OrganizationName": "HealthJoy",
+        "Headquarters Location": "Chicago, Illinois, United States",
+        "Website": "http://www.healthjoy.com",
+        "Facebook": "https://www.facebook.com/healthjoydotcom",
+        "LinkedIn": "https://www.linkedin.com/company/healthjoy",
+        "Contact Email": "support@healthjoy.com"
+      },
+      {
+        "OrganizationName": "Britishvolt",
+        "Headquarters Location": "London, England, United Kingdom",
+        "Website": "https://britishvolt.com/",
+        "Facebook": "https://www.facebook.com/britishvolt",
+        "LinkedIn": "https://www.linkedin.com/company/britishvolt",
+        "Contact Email": "power@britishvolt.com"
+      },
+      {
+        "OrganizationName": "OurCrowd",
+        "Headquarters Location": "Jerusalem, Yerushalayim, Israel",
+        "Website": "http://www.ourcrowd.com",
+        "Facebook": "http://www.facebook.com/Ourcrowdfund",
+        "LinkedIn": "http://www.linkedin.com/company/ourcrowd-llc",
+        "Contact Email": "info@ourcrowd.com"
+      },
+      {
+        "OrganizationName": "Keka HR",
+        "Headquarters Location": "Hyderabad, Andhra Pradesh, India",
+        "Website": "https://www.keka.com",
+        "Facebook": "https://www.facebook.com/kekadotcom",
+        "LinkedIn": "https://www.linkedin.com/company/keka-hr",
+        "Contact Email": "support@keka.com"
+      },
+      {
+        "OrganizationName": "Cashkaro",
+        "Headquarters Location": "Gurgaon, Haryana, India",
+        "Website": "http://cashkaro.com",
+        "Facebook": "https://www.facebook.com/cashkaro/",
+        "LinkedIn": "https://www.linkedin.com/company/cashkaro-com",
+        "Contact Email": "contact@cashkaro.com"
+      },
+      {
+        "OrganizationName": "PhonePe",
+        "Headquarters Location": "Andheri, Maharashtra, India",
+        "Website": "https://www.phonepe.com",
+        "Facebook": "https://www.facebook.com/PhonePe-1015973098467408",
+        "LinkedIn": "https://www.linkedin.com/company/phonepe-internet",
+        "Contact Email": "support@phonepe.com"
+      },
+      {
+        "OrganizationName": "Orum",
+        "Headquarters Location": "San Francisco, California, United States",
+        "Website": "https://www.orum.com",
+        "LinkedIn": "https://www.linkedin.com/company/orumhq",
+        "Contact Email": "support@orumhq.com"
+      },
+      {
+        "OrganizationName": "Liquid Death",
+        "Headquarters Location": "Santa Monica, California, United States",
+        "Website": "https://liquiddeath.com",
+        "Facebook": "https://www.facebook.com/DrinkLiquidDeath",
+        "LinkedIn": "https://www.linkedin.com/company/liquid-death",
+        "Contact Email": "info@liquiddeath.com"
+      },
+      {
+        "OrganizationName": "Solugen",
+        "Headquarters Location": "Houston, Texas, United States",
+        "Website": "https://www.solugen.bio",
+        "LinkedIn": "https://www.linkedin.com/company/solugen",
+        "Contact Email": "info@solugen.com"
+      },
+      {
+        "OrganizationName": "Yassir",
+        "Headquarters Location": "Algiers, Alger, Algeria",
+        "Website": "https://yassir.com",
+        "Facebook": "https://www.facebook.com/Yassir.Algerie",
+        "LinkedIn": "https://www.linkedin.com/company/yassir-global",
+        "Contact Email": "support@yassir.com"
+      },
+      {
+        "OrganizationName": "Gemini",
+        "Headquarters Location": "New York, New York, United States",
+        "Website": "https://gemini.com",
+        "Facebook": "https://www.facebook.com/GeminiTrust",
+        "LinkedIn": "https://www.linkedin.com/company/geminitrust",
+        "Contact Email": "press@gemini.com"
+      },
+      {
+        "OrganizationName": "Xeal",
+        "Headquarters Location": "Los Angeles, California, United States",
+        "Website": "https://xealenergy.com",
+        "Facebook": "https://www.facebook.com/xealenergy",
+        "LinkedIn": "https://www.linkedin.com/company/xealenergy"
+      },
+      {
+        "OrganizationName": "Enable",
+        "Headquarters Location": "San Francisco, California, United States",
+        "Website": "http://enable.com",
+        "Facebook": "https://www.facebook.com/EnableSoftware",
+        "LinkedIn": "https://www.linkedin.com/company/enable-software",
+        "Contact Email": "hello@enable.com"
+      },
+      {
+        "OrganizationName": "BlockTower Capital",
+        "Headquarters Location": "New York, New York, United States",
+        "Website": "https://blocktower.com/",
+        "LinkedIn": "https://www.linkedin.com/company/11186126/"
+      },
+      {
+        "OrganizationName": "AiDash",
+        "Headquarters Location": "San Jose, California, United States",
+        "Website": "https://www.aidash.com",
+        "Facebook": "https://www.facebook.com/aidashinc",
+        "LinkedIn": "https://www.linkedin.com/company/aidash",
+        "Contact Email": "info@aidash.com"
+      },
+      {
+        "OrganizationName": "Circle",
+        "Headquarters Location": "Boston, Massachusetts, United States",
+        "Website": "https://www.circle.com",
+        "Facebook": "https://www.facebook.com/pg/circle",
+        "LinkedIn": "https://www.linkedin.com/company/circle-internet-financial",
+        "Contact Email": "info@circle.com"
+      },
+      {
+        "OrganizationName": "Moneyhub",
+        "Headquarters Location": "Bristol, Bristol, City of, United Kingdom",
+        "Website": "https://www.moneyhub.com",
+        "LinkedIn": "https://www.linkedin.com/company/moneyhub-enterprise/",
+        "Contact Email": "info@moneyhub.com"
+      },
+      {
+        "OrganizationName": "Xanadu",
+        "Headquarters Location": "Toronto, Ontario, Canada",
+        "Website": "http://www.xanadu.ai",
+        "LinkedIn": "https://www.linkedin.com/company/xanaduai",
+        "Contact Email": "hello@xanadu.ai"
+      },
+      {
+        "OrganizationName": "Swiftly",
+        "Headquarters Location": "Seattle, Washington, United States",
+        "Website": "http://swiftly.com",
+        "Facebook": "https://www.facebook.com/SwiftlySystems",
+        "LinkedIn": "https://www.linkedin.com/company/swiftlysystems/",
+        "Contact Email": "marketing@swiftly.com"
+      },
+      {
+        "OrganizationName": "Merge",
+        "Headquarters Location": "San Francisco, California, United States",
+        "Website": "https://merge.dev",
+        "LinkedIn": "https://www.linkedin.com/company/merge-api",
+        "Contact Email": "hello@merge.dev"
+      },
+      {
+        "OrganizationName": "StartEngine",
+        "Headquarters Location": "Los Angeles, California, United States",
+        "Website": "http://www.startengine.com",
+        "Facebook": "https://www.facebook.com/StartEngineLA/",
+        "LinkedIn": "https://www.linkedin.com/company/startengine",
+        "Contact Email": "contact@startengine.com"
+      },
+      {
+        "OrganizationName": "MoneyFellows",
+        "Headquarters Location": "Cairo, Al Qahirah, Egypt",
+        "Website": "https://moneyfellows.com",
+        "Facebook": "https://www.facebook.com/moneyfellows",
+        "LinkedIn": "https://www.linkedin.com/company/moneyfellows",
+        "Contact Email": "awadi@moneyfellows.com"
+      },
+      {
+        "OrganizationName": "Figment",
+        "Headquarters Location": "Toronto, Ontario, Canada",
+        "Website": "https://figment.io",
+        "LinkedIn": "https://www.linkedin.com/company/figment-io/",
+        "Contact Email": "contact@figment.io"
+      },
+      {
+        "OrganizationName": "Holidu",
+        "Headquarters Location": "Munich, Bayern, Germany",
+        "Website": "http://www.holidu.com",
+        "Facebook": "http://www.facebook.com/holidu",
+        "LinkedIn": "http://www.linkedin.com/company/holidu",
+        "Contact Email": "service@holidu.com"
+      },
+      {
+        "OrganizationName": "Bira 91",
+        "Headquarters Location": "New Delhi, Delhi, India",
+        "Website": "http://www.bira91.com",
+        "Facebook": "https://www.facebook.com/bira91sg",
+        "LinkedIn": "https://www.linkedin.com/company/bira-91",
+        "Contact Email": "connect@bira91.com"
+      },
+      {
+        "OrganizationName": "Qwick",
+        "Headquarters Location": "Scottsdale, Arizona, United States",
+        "Website": "https://www.qwick.com",
+        "Facebook": "https://www.facebook.com/QwickShifts",
+        "LinkedIn": "https://www.linkedin.com/company/qwick",
+        "Contact Email": "support@qwick.com"
+      },
+      {
+        "OrganizationName": "Navina",
+        "Headquarters Location": "Tel Aviv-yafo, Tel Aviv, Israel",
+        "Website": "https://www.navina.ai",
+        "LinkedIn": "https://www.linkedin.com/company/navina-ai",
+        "Contact Email": "contact@navina.ai"
+      },
+      {
+        "OrganizationName": "Squire",
+        "Headquarters Location": "New York, New York, United States",
+        "Website": "http://www.getsquire.com",
+        "Facebook": "https://www.facebook.com/squiretechnologies",
+        "LinkedIn": "https://www.linkedin.com/company/squ%C4%ABr-technologies",
+        "Contact Email": "info@getsquire.com"
+      },
+      {
+        "OrganizationName": "Vesttoo",
+        "Headquarters Location": "Tel Aviv, Tel Aviv, Israel",
+        "Website": "https://vesttoo.com",
+        "Facebook": "https://www.facebook.com/vesttoo",
+        "LinkedIn": "https://www.linkedin.com/company/vesttoo",
+        "Contact Email": "liran@vesttoo.com"
+      },
+      {
+        "OrganizationName": "H2 Green Steel",
+        "Headquarters Location": "Stockholm, Stockholms Lan, Sweden",
+        "Website": "https://www.h2greensteel.com",
+        "Facebook": "https://www.facebook.com/H2GreenSteel",
+        "LinkedIn": "https://www.linkedin.com/company/h2greensteel",
+        "Contact Email": "info@h2greensteel.com"
+      },
+      {
+        "OrganizationName": "Blockchain Capital",
+        "Headquarters Location": "San Francisco, California, United States",
+        "Website": "https://www.blockchaincapital.com",
+        "Facebook": "https://www.facebook.com/blockchaincapital",
+        "LinkedIn": "https://www.linkedin.com/company/crypto-currency-partners-lp",
+        "Contact Email": "contact@blockchaincapital.com"
+      },
+      {
+        "OrganizationName": "Baller Mixed Reality",
+        "Headquarters Location": "Miami Beach, Florida, United States",
+        "Website": "http://BallerMR.com",
+        "Facebook": "https://www.facebook.com/BallerMR",
+        "LinkedIn": "https://www.linkedin.com/company/83704119/admin/",
+        "Contact Email": "Info@BallerMR.com"
+      },
+      {
+        "OrganizationName": "PhotoRoom",
+        "Headquarters Location": "Paris, Ile-de-France, France",
+        "Website": "https://photoroom.com/",
+        "Facebook": "https://www.facebook.com/PhotoRoom-105863290980747/",
+        "LinkedIn": "https://www.linkedin.com/company/photoroom/",
+        "Contact Email": "hello@photoroom.com"
+      },
+      {
+        "OrganizationName": "Axelera AI",
+        "Headquarters Location": "Eindhoven, Noord-Brabant, The Netherlands",
+        "Website": "https://www.axelera.ai",
+        "Facebook": "https://www.facebook.com/profile.php?id=100083116423051",
+        "LinkedIn": "https://www.linkedin.com/company/axelera-ai",
+        "Contact Email": "info@axelera.ai"
+      },
+      {
+        "OrganizationName": "CrowdStreet",
+        "Headquarters Location": "Austin, Texas, United States",
+        "Website": "http://www.crowdstreet.com",
+        "Facebook": "http://www.facebook.com/CrowdSt",
+        "LinkedIn": "http://www.linkedin.com/company/crowdstreet-inc-",
+        "Contact Email": "info@crowdstreet.com"
+      },
+      {
+        "OrganizationName": "HUMAN",
+        "Headquarters Location": "New York, New York, United States",
+        "Website": "http://www.humansecurity.com",
+        "Facebook": "https://www.facebook.com/nomorebots",
+        "LinkedIn": "http://www.linkedin.com/company/humansecurityinc",
+        "Contact Email": "marketing@humansecurity.com"
+      },
+      {
+        "OrganizationName": "Masai School",
+        "Headquarters Location": "Bengaluru, Karnataka, India",
+        "Website": "http://www.masaischool.com",
+        "Facebook": "https://www.facebook.com/masaischool",
+        "LinkedIn": "https://www.linkedin.com/company/masai-school",
+        "Contact Email": "admissions@masaischool.com"
+      },
+      {
+        "OrganizationName": "Nuri",
+        "Headquarters Location": "Berlin, Berlin, Germany",
+        "Website": "https://nuri.com/",
+        "Facebook": "https://www.facebook.com/NuriBanking/",
+        "LinkedIn": "https://www.linkedin.com/company/nuribanking/mycompany/?viewAsMember=true",
+        "Contact Email": "info@nuri.com"
+      },
+      {
+        "OrganizationName": "Brex",
+        "Headquarters Location": "San Francisco, California, United States",
+        "Website": "https://brex.com",
+        "Facebook": "https://www.facebook.com/BrexHQ",
+        "LinkedIn": "https://www.linkedin.com/company/brexhq",
+        "Contact Email": "info@brex.com"
+      },
+      {
+        "OrganizationName": "Agrolend",
+        "Headquarters Location": "SÃ£o Paulo, Sao Paulo, Brazil",
+        "Website": "https://www.agrolend.agr.br",
+        "LinkedIn": "https://www.linkedin.com/company/agrolend/about/",
+        "Contact Email": "andre.glezer@agrolend.agr.br"
+      },
+      {
+        "OrganizationName": "Near",
+        "Headquarters Location": "Singapore, Central Region, Singapore",
+        "Website": "https://near.com",
+        "Facebook": "http://www.facebook.com/NearPlatform",
+        "LinkedIn": "https://www.linkedin.com/company/-near?trk=company_logo",
+        "Contact Email": "info@near.com"
+      },
+      {
+        "OrganizationName": "Form3",
+        "Headquarters Location": "London, England, United Kingdom",
+        "Website": "https://form3.tech",
+        "Facebook": "https://www.facebook.com/Form3Cloud",
+        "LinkedIn": "https://www.linkedin.com/company/form3-financial-cloud",
+        "Contact Email": "info@form3.tech"
+      },
+      {
+        "OrganizationName": "Improbable",
+        "Headquarters Location": "London, England, United Kingdom",
+        "Website": "http://www.improbable.io",
+        "Facebook": "http://www.facebook.com/improbable.io",
+        "LinkedIn": "https://www.linkedin.com/company/improbable",
+        "Contact Email": "contact@improbable.io"
+      },
+      {
+        "OrganizationName": "Dataloop AI",
+        "Headquarters Location": "Herzliya, Tel Aviv, Israel",
+        "Website": "https://www.dataloop.ai",
+        "Facebook": "https://www.facebook.com/dataloopai",
+        "LinkedIn": "https://www.linkedin.com/company/dataloop",
+        "Contact Email": "info@dataloop.ai"
+      },
+      {
+        "OrganizationName": "SiMa.ai",
+        "Headquarters Location": "San Jose, California, United States",
+        "Website": "https://sima.ai",
+        "LinkedIn": "https://www.linkedin.com/company/sima-ai",
+        "Contact Email": "mlsoc@sima.ai."
+      },
+      {
+        "OrganizationName": "Pipefy",
+        "Headquarters Location": "San Francisco, California, United States",
+        "Website": "http://www.pipefy.com",
+        "Facebook": "https://www.facebook.com/pipefy",
+        "LinkedIn": "https://www.linkedin.com/company/pipefy/",
+        "Contact Email": "communication@pipefy.com"
+      },
+      {
+        "OrganizationName": "Public.com",
+        "Headquarters Location": "New York, New York, United States",
+        "Website": "https://public.com",
+        "Facebook": "https://www.facebook.com/PublicHello",
+        "LinkedIn": "https://www.linkedin.com/company/PublicHello",
+        "Contact Email": "press@public.com"
+      },
+      {
+        "OrganizationName": "The Sleep Company",
+        "Headquarters Location": "Mumbai, Maharashtra, India",
+        "Website": "https://www.thesleepcompany.in",
+        "Facebook": "https://www.facebook.com/thsleepco",
+        "LinkedIn": "https://www.linkedin.com/company/the-sleep-company-official",
+        "Contact Email": "care@thesleepcompany.in"
+      },
+      {
+        "OrganizationName": "Viome",
+        "Headquarters Location": "Bellevue, Washington, United States",
+        "Website": "https://www.viome.com",
+        "Facebook": "https://www.facebook.com/MyViome",
+        "LinkedIn": "https://www.linkedin.com/company/viome",
+        "Contact Email": "press@viome.com"
+      },
+      {
+        "OrganizationName": "Esusu Financial",
+        "Headquarters Location": "New York, New York, United States",
+        "Website": "http://www.esusurent.com",
+        "Facebook": "https://www.facebook.com/myesusu",
+        "LinkedIn": "https://www.linkedin.com/company/10778599/",
+        "Contact Email": "EsusuFinanical@esusu.org"
+      },
+      {
+        "OrganizationName": "Netlify",
+        "Headquarters Location": "San Francisco, California, United States",
+        "Website": "https://www.netlify.com",
+        "Facebook": "https://www.facebook.com/netlify",
+        "LinkedIn": "https://www.linkedin.com/company/netlify",
+        "Contact Email": "team@netlify.com"
+      },
+      {
+        "OrganizationName": "CharterUP",
+        "Headquarters Location": "Atlanta, Georgia, United States",
+        "Website": "https://www.charterup.com",
+        "Facebook": "https://www.facebook.com/charterup",
+        "LinkedIn": "https://www.linkedin.com/company/charterup",
+        "Contact Email": "support@charterup.com"
+      },
+      {
+        "OrganizationName": "StarkWare Industries",
+        "Headquarters Location": "Netanya, HaMerkaz, Israel",
+        "Website": "http://www.starkware.co",
+        "LinkedIn": "https://www.linkedin.com/company/starkware",
+        "Contact Email": "info@starkware.co"
+      },
+      {
+        "OrganizationName": "Bambee",
+        "Headquarters Location": "Los Angeles, California, United States",
+        "Website": "https://www.bambee.com",
+        "Facebook": "https://www.facebook.com/bambeeHQ/",
+        "LinkedIn": "https://www.linkedin.com/company/bambee/",
+        "Contact Email": "legal@bambee.com"
+      },
+      {
+        "OrganizationName": "VillageMD",
+        "Headquarters Location": "Chicago, Illinois, United States",
+        "Website": "http://www.villagemd.com/",
+        "Facebook": "https://www.facebook.com/pcvillagemd",
+        "LinkedIn": "https://www.linkedin.com/company/villagemd",
+        "Contact Email": "info@villagemd.com"
+      },
+      {
+        "OrganizationName": "Partake Foods",
+        "Headquarters Location": "Jersey City, New Jersey, United States",
+        "Website": "https://partakefoods.com",
+        "Facebook": "https://www.facebook.com/PartakeFoods",
+        "LinkedIn": "https://www.linkedin.com/company/partakefoods",
+        "Contact Email": "info@partakefoods.com"
+      },
+      {
+        "OrganizationName": "The EVERY Company",
+        "Headquarters Location": "South San Francisco, California, United States",
+        "Website": "https://theeverycompany.com",
+        "Facebook": "https://www.facebook.com/theEVERYcompany",
+        "LinkedIn": "https://www.linkedin.com/company/clara-foods",
+        "Contact Email": "info@clarafoods.com"
+      },
+      {
+        "OrganizationName": "Alloy",
+        "Headquarters Location": "New York, New York, United States",
+        "Website": "https://www.alloy.com",
+        "Facebook": "https://www.facebook.com/usealloy",
+        "LinkedIn": "https://www.linkedin.com/company/alloy-apis",
+        "Contact Email": "hello@alloy.co"
+      },
+      {
+        "OrganizationName": "Ampla Technologies",
+        "Headquarters Location": "New York, New York, United States",
+        "Website": "http://www.getampla.com",
+        "LinkedIn": "https://www.linkedin.com/company/getampla",
+        "Contact Email": "info@getampla.com"
+      },
+      {
+        "OrganizationName": "Fivetran",
+        "Headquarters Location": "Oakland, California, United States",
+        "Website": "https://fivetran.com",
+        "Facebook": "https://www.facebook.com/fivetran",
+        "LinkedIn": "https://www.linkedin.com/company/fivetran/",
+        "Contact Email": "info@fivetran.com"
+      },
+      {
+        "OrganizationName": "Puttshack",
+        "Headquarters Location": "Chicago, Illinois, United States",
+        "Website": "https://www.puttshack.com/",
+        "Facebook": "https://www.facebook.com/PuttShack/",
+        "LinkedIn": "https://uk.linkedin.com/company/puttshack",
+        "Contact Email": "info@puttshack.com"
+      },
+      {
+        "OrganizationName": "Maude",
+        "Headquarters Location": "Brooklyn, New York, United States",
+        "Website": "https://getmaude.com",
+        "Facebook": "https://www.facebook.com/getmaude",
+        "LinkedIn": "https://www.linkedin.com/company/get-maude",
+        "Contact Email": "hello@getmaude.com"
+      },
+      {
+        "OrganizationName": "Grow Therapy",
+        "Headquarters Location": "New York, New York, United States",
+        "Website": "https://growtherapy.com/",
+        "Facebook": "https://www.facebook.com/joingrowtherapy/",
+        "LinkedIn": "https://www.linkedin.com/company/grow-therapy/",
+        "Contact Email": "support@growtherapy.com"
+      },
+      {
+        "OrganizationName": "Ring",
+        "Headquarters Location": "Santa Monica, California, United States",
+        "Website": "https://ring.com/",
+        "Facebook": "https://www.facebook.com/pg/ring/",
+        "LinkedIn": "https://www.linkedin.com/company/ring-labs/",
+        "Contact Email": "help@ring.com"
+      },
+      {
+        "OrganizationName": "Canary Technologies",
+        "Headquarters Location": "San Francisco, California, United States",
+        "Website": "https://www.canarytechnologies.com",
+        "Facebook": "https://www.facebook.com/canarytechnologies",
+        "LinkedIn": "https://www.linkedin.com/company/canarytech",
+        "Contact Email": "info@canarytechnologies.com"
+      },
+      {
+        "OrganizationName": "Grailed",
+        "Headquarters Location": "New York, New York, United States",
+        "Website": "https://www.grailed.com/",
+        "Facebook": "https://www.facebook.com/grailed/",
+        "LinkedIn": "https://www.linkedin.com/company/grailed/",
+        "Contact Email": "help@grailed.com"
+      },
+      {
+        "OrganizationName": "Cinchy",
+        "Headquarters Location": "Toronto, Ontario, Canada",
+        "Website": "http://www.cinchy.com",
+        "Facebook": "https://facebook.com/itscinchy",
+        "LinkedIn": "https://www.linkedin.com/company/cinchy",
+        "Contact Email": "info@cinchy.com"
+      },
+      {
+        "OrganizationName": "Tymit",
+        "Headquarters Location": "London, England, United Kingdom",
+        "Website": "https://www.tymit.com",
+        "Facebook": "https://www.facebook.com/tymitapp",
+        "LinkedIn": "https://www.linkedin.com/company/tymit",
+        "Contact Email": "hello@tymit.com"
+      },
+      {
+        "OrganizationName": "Blockdaemon",
+        "Headquarters Location": "Los Angeles, California, United States",
+        "Website": "https://blockdaemon.com",
+        "LinkedIn": "https://www.linkedin.com/company/blockdaemon"
+      },
+      {
+        "OrganizationName": "Aave",
+        "Headquarters Location": "London, England, United Kingdom",
+        "Website": "https://www.aave.com",
+        "Facebook": "https://www.facebook.com/AaveWow",
+        "LinkedIn": "https://www.linkedin.com/company/aaveaave/",
+        "Contact Email": "wow@aave.com"
+      },
+      {
+        "OrganizationName": "Pocket FM",
+        "Headquarters Location": "Bengaluru, Karnataka, India",
+        "Website": "https://www.pocketfm.in",
+        "Facebook": "https://www.facebook.com/pocketfmindia",
+        "LinkedIn": "https://in.linkedin.com/company/pocket-fm",
+        "Contact Email": "hello@pocketfm.in"
+      },
+      {
+        "OrganizationName": "Ceras Ventures",
+        "Headquarters Location": "New York, New York, United States",
+        "Website": "https://www.cerasvc.com/",
+        "LinkedIn": "https://www.linkedin.com/company/ceras-ventures",
+        "Contact Email": "contact@cerasvc.com"
+      },
+      {
+        "OrganizationName": "Snowball Wealth",
+        "Headquarters Location": "San Francisco, California, United States",
+        "Website": "https://www.snowballwealth.com",
+        "Facebook": "https://www.facebook.com/asksnowball",
+        "LinkedIn": "https://www.linkedin.com/company/withsnowball",
+        "Contact Email": "hello@snowballwealth.com"
+      },
+      {
+        "OrganizationName": "DataGrail",
+        "Headquarters Location": "San Francisco, California, United States",
+        "Website": "http://www.datagrail.io",
+        "Facebook": "https://www.facebook.com/DataGrail",
+        "LinkedIn": "https://www.linkedin.com/company/datagrail",
+        "Contact Email": "press@datagrail.io"
+      },
+      {
+        "OrganizationName": "LimeRoad",
+        "Headquarters Location": "Gurgaon, Haryana, India",
+        "Website": "https://www.limeroad.com/",
+        "Facebook": "https://www.facebook.com/Limeroadcom/",
+        "LinkedIn": "https://www.linkedin.com/company/limeroad-com/"
+      },
+      {
+        "OrganizationName": "Foodology",
+        "Headquarters Location": "BogotÃ¡, Distrito Especial, Colombia",
+        "Website": "https://www.foodology.com.co",
+        "LinkedIn": "https://www.linkedin.com/company/foodology-inc",
+        "Contact Email": "info@foodology.com"
+      },
+      {
+        "OrganizationName": "Shardeum",
+        "Headquarters Location": "Geneva, Geneve, Switzerland",
+        "Website": "http://shardeum.org/",
+        "Facebook": "https://www.facebook.com/shardeumfoundation",
+        "LinkedIn": "https://www.linkedin.com/company/shardeum/"
+      },
+      {
+        "OrganizationName": "Mendel",
+        "Headquarters Location": "Mexico City, Distrito Federal, Mexico",
+        "Website": "https://www.somosmendel.com",
+        "LinkedIn": "https://www.linkedin.com/company/somosmendel"
+      },
+      {
+        "OrganizationName": "Repl.it",
+        "Headquarters Location": "San Francisco, California, United States",
+        "Website": "https://replit.com",
+        "Facebook": "https://www.facebook.com/repl.it",
+        "LinkedIn": "https://www.linkedin.com/company/repl-it",
+        "Contact Email": "contact@repl.it"
+      },
+      {
+        "OrganizationName": "reAlpha",
+        "Headquarters Location": "Dublin, Ohio, United States",
+        "Website": "https://realpha.com",
+        "Facebook": "https://www.facebook.com/reAlphaTechCorp",
+        "LinkedIn": "https://www.linkedin.com/company/realpha-tech/",
+        "Contact Email": "hello@realpha.com"
+      },
+      {
+        "OrganizationName": "Pollen",
+        "Headquarters Location": "London, England, United Kingdom",
+        "Website": "https://pollen.co",
+        "Facebook": "https://www.facebook.com/pollencommunity",
+        "LinkedIn": "https://www.linkedin.com/company/pollenco",
+        "Contact Email": "support@pollen.co"
+      },
+      {
+        "OrganizationName": "Darwinbox",
+        "Headquarters Location": "Hyderabad, Andhra Pradesh, India",
+        "Website": "https://darwinbox.com",
+        "Facebook": "https://www.facebook.com/thedarwinbox",
+        "LinkedIn": "https://www.linkedin.com/company/thedarwinbox",
+        "Contact Email": "contact@darwinbox.in"
+      },
+      {
+        "OrganizationName": "Wispr",
+        "Headquarters Location": "South San Francisco, California, United States",
+        "Website": "https://wispr.ai",
+        "Facebook": "https://www.facebook.com/wisprAI",
+        "LinkedIn": "https://www.linkedin.com/company/wispr",
+        "Contact Email": "hello@wispr.ai"
+      },
+      {
+        "OrganizationName": "Hazel Health",
+        "Headquarters Location": "San Francisco, California, United States",
+        "Website": "https://hazel.co",
+        "Facebook": "http://facebook.com/hazelhealthinc/",
+        "LinkedIn": "https://www.linkedin.com/company/hazelhealth/",
+        "Contact Email": "info@hazel.co"
+      },
+      {
+        "OrganizationName": "Sepio",
+        "Headquarters Location": "Rockville, Maryland, United States",
+        "Website": "https://sepiocyber.com/",
+        "Facebook": "https://www.facebook.com/cybersepiosystems/",
+        "LinkedIn": "https://www.linkedin.com/company/sepio-systems/",
+        "Contact Email": "info@sepio.systems"
+      },
+      {
+        "OrganizationName": "Flexport",
+        "Headquarters Location": "San Francisco, California, United States",
+        "Website": "https://www.flexport.com",
+        "Facebook": "https://www.facebook.com/flexport",
+        "LinkedIn": "http://www.linkedin.com/company/flexport",
+        "Contact Email": "hello@flexport.com"
+      },
+      {
+        "OrganizationName": "Garuda Aerospace",
+        "Headquarters Location": "Chennai, Tamil Nadu, India",
+        "Website": "https://www.garudaaerospace.com/",
+        "Facebook": "https://www.facebook.com/GAPLIndia.Official/",
+        "LinkedIn": "https://www.linkedin.com/company/garuda-aerospace-private-limited/",
+        "Contact Email": "info@garudaaerospace.com"
+      },
+      {
+        "OrganizationName": "Somatus",
+        "Headquarters Location": "Mclean, Virginia, United States",
+        "Website": "https://somatus.com/",
+        "Facebook": "https://www.facebook.com/SomatusKidneyCare",
+        "LinkedIn": "https://www.linkedin.com/company/somatus",
+        "Contact Email": "info@somatus.com"
+      },
+      {
+        "OrganizationName": "Stairwell",
+        "Headquarters Location": "Mountain View, California, United States",
+        "Website": "https://www.stairwell.com",
+        "Facebook": "https://www.facebook.com/InsideStairwell",
+        "LinkedIn": "https://www.linkedin.com/company/stairwell-inc",
+        "Contact Email": "info@stairwell.com"
+      },
+      {
+        "OrganizationName": "Mondu",
+        "Headquarters Location": "Berlin, Berlin, Germany",
+        "Website": "https://www.mondu.ai",
+        "LinkedIn": "https://www.linkedin.com/company/mondu-ai",
+        "Contact Email": "contact@mondu.ai"
+      },
+      {
+        "OrganizationName": "ZestMoney",
+        "Headquarters Location": "Bangalore, Karnataka, India",
+        "Website": "https://www.zestmoney.in/",
+        "Facebook": "https://www.facebook.com/zestmoney",
+        "LinkedIn": "https://www.linkedin.com/company/zestmoney/",
+        "Contact Email": "help@zestmoney.in"
+      },
+      {
+        "OrganizationName": "Motive",
+        "Headquarters Location": "San Francisco, California, United States",
+        "Website": "http://gomotive.com",
+        "Facebook": "https://www.facebook.com/GoMotive.Inc",
+        "LinkedIn": "http://www.linkedin.com/company/motive-inc",
+        "Contact Email": "feedback@gomotive.com"
+      },
+      {
+        "OrganizationName": "Ambi Robotics",
+        "Headquarters Location": "Berkeley, California, United States",
+        "Website": "http://www.ambirobotics.com",
+        "LinkedIn": "https://www.linkedin.com/company/ambirobotics",
+        "Contact Email": "contact@ambirobotics.com"
+      },
+      {
+        "OrganizationName": "Prenuvo",
+        "Headquarters Location": "Vancouver, British Columbia, Canada",
+        "Website": "https://www.prenuvo.com/",
+        "Facebook": "https://www.facebook.com/prenuvo/",
+        "LinkedIn": "https://www.linkedin.com/company/prenuvo/",
+        "Contact Email": "hello@prenuvo.com"
+      },
+      {
+        "OrganizationName": "CircleIt",
+        "Headquarters Location": "Chicago, Illinois, United States",
+        "Website": "https://circleit.com/",
+        "Facebook": "https://www.facebook.com/justcircleit",
+        "LinkedIn": "https://www.linkedin.com/company/circleitinc",
+        "Contact Email": "hello@circleit.com"
+      },
+      {
+        "OrganizationName": "Sierra Space",
+        "Headquarters Location": "Louisville, Colorado, United States",
+        "Website": "https://sierraspace.com",
+        "Facebook": "https://www.facebook.com/SierraSpaceCo",
+        "LinkedIn": "https://www.linkedin.com/company/sierraspace",
+        "Contact Email": "media.ssg@sncorp.com"
+      },
+      {
+        "OrganizationName": "Capital on Tap",
+        "Headquarters Location": "London, England, United Kingdom",
+        "Website": "https://www.capitalontap.com",
+        "Facebook": "https://www.facebook.com/CapitalOnTap",
+        "LinkedIn": "https://www.linkedin.com/company/capital-on-tap",
+        "Contact Email": "contact@capitalontap.com"
+      },
+      {
+        "OrganizationName": "FTX Ventures",
+        "Headquarters Location": "Nassau, New Providence, Bahamas",
+        "Website": "https://ftx.com",
+        "Contact Email": "ventures@ftx.com"
+      },
+      {
+        "OrganizationName": "Tellius",
+        "Headquarters Location": "Reston, Virginia, United States",
+        "Website": "http://www.tellius.com",
+        "LinkedIn": "https://www.linkedin.com/company/tellius",
+        "Contact Email": "contact@tellius.com"
+      },
+      {
+        "OrganizationName": "Foodpanda",
+        "Headquarters Location": "Berlin, Berlin, Germany",
+        "Website": "https://www.foodpanda.com",
+        "Facebook": "https://www.facebook.com/foodpandahellofood",
+        "LinkedIn": "https://www.linkedin.com/company/foodpanda",
+        "Contact Email": "contact@foodpanda.com"
+      },
+      {
+        "OrganizationName": "Wonderschool",
+        "Headquarters Location": "San Francisco, California, United States",
+        "Website": "http://www.wonderschool.com",
+        "Facebook": "https://www.facebook.com/joinwonderschool",
+        "LinkedIn": "https://www.linkedin.com/company/wonderschool",
+        "Contact Email": "hello@wonderschool.com"
+      },
+      {
+        "OrganizationName": "Affinity",
+        "Headquarters Location": "San Francisco, California, United States",
+        "Website": "https://affinity.co/",
+        "Facebook": "https://www.facebook.com/AffinityHQ",
+        "LinkedIn": "https://www.linkedin.com/company/project-affinity/",
+        "Contact Email": "support@affinity.co"
+      },
+      {
+        "OrganizationName": "Lodgify",
+        "Headquarters Location": "Barcelona, Catalonia, Spain",
+        "Website": "https://www.lodgify.com",
+        "Facebook": "http://www.facebook.com/Lodgify",
+        "LinkedIn": "https://www.linkedin.com/company/lodgify",
+        "Contact Email": "press@lodgify.com"
+      },
+      {
+        "OrganizationName": "ConnexPay",
+        "Headquarters Location": "Saint Paul, Minnesota, United States",
+        "Website": "https://connexpay.com",
+        "LinkedIn": "https://www.linkedin.com/company/connexpay",
+        "Contact Email": "info@connexpay.com"
+      },
+      {
+        "OrganizationName": "Gitpod",
+        "Headquarters Location": "Kiel, Schleswig-Holstein, Germany",
+        "Website": "https://www.gitpod.io",
+        "LinkedIn": "https://www.linkedin.com/company/gitpod",
+        "Contact Email": "contact@gitpod.io"
+      },
+      {
+        "OrganizationName": "Nearpod",
+        "Headquarters Location": "Dania, Florida, United States",
+        "Website": "http://www.nearpod.com",
+        "Facebook": "http://www.facebook.com/nearpod",
+        "LinkedIn": "https://www.linkedin.com/company/nearpod",
+        "Contact Email": "marketing@nearpod.com"
+      },
+      {
+        "OrganizationName": "Odyssey Therapeutics",
+        "Headquarters Location": "Cambridge, Massachusetts, United States",
+        "Website": "https://odysseytx.com",
+        "LinkedIn": "https://www.linkedin.com/company/odyssey-tx"
+      },
+      {
+        "OrganizationName": "Promise",
+        "Headquarters Location": "Oakland, California, United States",
+        "Website": "https://www.promise-pay.com/",
+        "LinkedIn": "https://www.linkedin.com/company/joinpromise/",
+        "Contact Email": "hello@joinpromise.com"
+      },
+      {
+        "OrganizationName": "Uniswap",
+        "Headquarters Location": "New York, New York, United States",
+        "Website": "https://uniswap.org",
+        "Facebook": "https://www.facebook.com/profile.php?id=100077502501933",
+        "LinkedIn": "https://www.linkedin.com/company/uniswaporg",
+        "Contact Email": "media@uniswap.org"
+      },
+      {
+        "OrganizationName": "RevFin",
+        "Headquarters Location": "Delhi, Delhi, India",
+        "Website": "https://www.revfin.in/",
+        "Facebook": "https://www.facebook.com/revfinindia",
+        "LinkedIn": "https://www.linkedin.com/company/revfinserv",
+        "Contact Email": "care@revfin.in"
+      },
+      {
+        "OrganizationName": "Branch",
+        "Headquarters Location": "Palo Alto, California, United States",
+        "Website": "https://branch.io",
+        "Facebook": "http://www.facebook.com/branchmetrics",
+        "LinkedIn": "http://www.linkedin.com/company/branch-metrics",
+        "Contact Email": "press@branch.io"
+      },
+      {
+        "OrganizationName": "MoonPay",
+        "Headquarters Location": "Miami, Florida, United States",
+        "Website": "https://www.moonpay.com",
+        "Facebook": "https://www.facebook.com/officialmoonpay/",
+        "LinkedIn": "https://www.linkedin.com/company/moonpay",
+        "Contact Email": "hello@moonpay.com"
+      },
+      {
+        "OrganizationName": "SpinLaunch",
+        "Headquarters Location": "Long Beach, California, United States",
+        "Website": "http://spinlaunch.com/",
+        "LinkedIn": "https://www.linkedin.com/company/spinlaunch/",
+        "Contact Email": "info@spinlaunch.com"
+      },
+      {
+        "OrganizationName": "Caribu",
+        "Headquarters Location": "Miami, Florida, United States",
+        "Website": "https://caribu.com",
+        "Facebook": "https://www.facebook.com/Caribu",
+        "LinkedIn": "https://www.linkedin.com/company/caribu",
+        "Contact Email": "hello@caribu.com"
+      },
+      {
+        "OrganizationName": "Tracxn",
+        "Headquarters Location": "Palo Alto, California, United States",
+        "Website": "http://tracxn.com",
+        "Facebook": "http://www.facebook.com/Tracxn",
+        "LinkedIn": "http://www.linkedin.com/company/tracxn",
+        "Contact Email": "neha@tracxn.com"
+      },
+      {
+        "OrganizationName": "Matrixport",
+        "Headquarters Location": "Singapore, Central Region, Singapore",
+        "Website": "https://www.matrixport.com",
+        "Facebook": "https://www.facebook.com/matrixport",
+        "LinkedIn": "https://www.linkedin.com/company/matrixport",
+        "Contact Email": "support@matrixport.com"
+      },
+      {
+        "OrganizationName": "GlobalFair",
+        "Headquarters Location": "San Mateo, California, United States",
+        "Website": "https://www.myglobalfair.com",
+        "LinkedIn": "https://www.linkedin.com/company/myglobalfair",
+        "Contact Email": "enquiries@myglobalfair.com"
+      },
+      {
+        "OrganizationName": "Ramp",
+        "Headquarters Location": "Warsaw, Mazowieckie, Poland",
+        "Website": "https://ramp.network",
+        "Facebook": "https://www.facebook.com/RampNetwork",
+        "LinkedIn": "https://www.linkedin.com/company/rampnetwork",
+        "Contact Email": "contact@ramp.network"
+      },
+      {
+        "OrganizationName": "Forethought",
+        "Headquarters Location": "San Francisco, California, United States",
+        "Website": "https://www.forethought.ai",
+        "Facebook": "https://www.facebook.com/forethought.tech",
+        "LinkedIn": "https://www.linkedin.com/company/18555572/",
+        "Contact Email": "press@forethought.ai"
+      },
+      {
+        "OrganizationName": "doola",
+        "Headquarters Location": "New York, New York, United States",
+        "Website": "https://www.doola.com/",
+        "Facebook": "https://www.linkedin.com/company/doolahq/",
+        "LinkedIn": "https://www.facebook.com/doolaHQ/",
+        "Contact Email": "hello@doola.com"
+      },
+      {
+        "OrganizationName": "Compute North",
+        "Headquarters Location": "Eden Prairie, Minnesota, United States",
+        "Website": "https://www.computenorth.com",
+        "Facebook": "https://www.facebook.com/ComputeNorthLLC",
+        "LinkedIn": "https://www.linkedin.com/company/computenorth",
+        "Contact Email": "info@computenorth.com"
+      },
+      {
+        "OrganizationName": "KuCoin",
+        "Headquarters Location": "MahÃ©, Beau Vallon, Seychelles",
+        "Website": "https://www.kucoin.com/?utm_source=crunchbase",
+        "Facebook": "https://www.facebook.com/KuCoinOfficial/",
+        "LinkedIn": "https://www.linkedin.com/company/kucoin/",
+        "Contact Email": "support@kucoin.com"
+      },
+      {
+        "OrganizationName": "Lendbuzz",
+        "Headquarters Location": "Boston, Massachusetts, United States",
+        "Website": "https://lendbuzz.com",
+        "Facebook": "https://www.facebook.com/lendbuzz",
+        "LinkedIn": "https://www.linkedin.com/company/lendbuzz",
+        "Contact Email": "help@lendbuzz.com"
+      },
+      {
+        "OrganizationName": "R3",
+        "Headquarters Location": "New York, New York, United States",
+        "Website": "http://r3.com",
+        "Facebook": "https://www.facebook.com/R3DLT",
+        "LinkedIn": "https://www.linkedin.com/company/r3cev-llc",
+        "Contact Email": "lrcbusinessdev@r3cev.com"
+      },
+      {
+        "OrganizationName": "Lime",
+        "Headquarters Location": "San Francisco, California, United States",
+        "Website": "https://www.li.me/",
+        "Facebook": "https://www.facebook.com/limebike/",
+        "LinkedIn": "https://www.linkedin.com/company/limebike/",
+        "Contact Email": "support@limebike.com"
+      },
+      {
+        "OrganizationName": "Brightside",
+        "Headquarters Location": "San Francisco, California, United States",
+        "Website": "https://www.gobrightside.com/",
+        "Facebook": "https://www.facebook.com/BrightsideBenefit/",
+        "LinkedIn": "https://www.linkedin.com/company/gobrightside/"
+      },
+      {
+        "OrganizationName": "ThreatLocker",
+        "Headquarters Location": "Maitland, Florida, United States",
+        "Website": "https://www.threatlocker.com/",
+        "Facebook": "https://www.facebook.com/pg/thethreatlocker",
+        "LinkedIn": "https://www.linkedin.com/company/threatlocker/",
+        "Contact Email": "support@threatlocker.com"
+      },
+      {
+        "OrganizationName": "Immutable Systems",
+        "Headquarters Location": "Surry Hills, New South Wales, Australia",
+        "Website": "http://immutable.com/",
+        "LinkedIn": "https://www.linkedin.com/company/immutable-1",
+        "Contact Email": "hello@immutable.com"
+      },
+      {
+        "OrganizationName": "Giphy",
+        "Headquarters Location": "New York, New York, United States",
+        "Website": "http://www.giphy.com",
+        "LinkedIn": "https://www.linkedin.com/company/giphy",
+        "Contact Email": "partnerships@giphy.com"
+      },
+      {
+        "OrganizationName": "Supertails",
+        "Headquarters Location": "Bangalore, Karnataka, India",
+        "Website": "https://supertails.com/",
+        "LinkedIn": "https://www.linkedin.com/company/supertails/"
+      },
+      {
+        "OrganizationName": "Figma",
+        "Headquarters Location": "San Francisco, California, United States",
+        "Website": "http://figma.com",
+        "Facebook": "https://www.facebook.com/figmadesign",
+        "LinkedIn": "https://www.linkedin.com/company/figma",
+        "Contact Email": "support@figma.com"
+      },
+      {
+        "OrganizationName": "Plend",
+        "Headquarters Location": "London, England, United Kingdom",
+        "Website": "https://plend.co.uk",
+        "Facebook": "https://www.facebook.com/Peoplelending",
+        "LinkedIn": "https://www.linkedin.com/company/peoplelend",
+        "Contact Email": "support@plend.co.uk"
+      },
+      {
+        "OrganizationName": "Way",
+        "Headquarters Location": "Austin, Texas, United States",
+        "Website": "https://www.way.co/",
+        "LinkedIn": "https://www.linkedin.com/company/letsway",
+        "Contact Email": "press@way.co"
+      },
+      {
+        "OrganizationName": "Mad Street Den",
+        "Headquarters Location": "Redwood City, California, United States",
+        "Website": "https://www.madstreetden.com",
+        "Facebook": "https://www.facebook.com/madstreetden",
+        "LinkedIn": "https://www.linkedin.com/company/mad-street-den",
+        "Contact Email": "info@madstreetden.com"
+      },
+      {
+        "OrganizationName": "Credit Key",
+        "Headquarters Location": "Venice, California, United States",
+        "Website": "http://www.creditkey.com",
+        "Contact Email": "john@creditkey.com"
+      },
+      {
+        "OrganizationName": "Securiti",
+        "Headquarters Location": "San Jose, California, United States",
+        "Website": "https://securiti.ai",
+        "Facebook": "https://www.facebook.com/SecuritiAI-817303171972413",
+        "LinkedIn": "https://www.linkedin.com/company/securiti",
+        "Contact Email": "info@securiti.ai"
+      },
+      {
+        "OrganizationName": "Canopy",
+        "Headquarters Location": "Detroit, Michigan, United States",
+        "Website": "https://www.canopy.security",
+        "LinkedIn": "https://www.linkedin.com/company/canopyus/",
+        "Contact Email": "hello@canopy.security"
+      },
+      {
+        "OrganizationName": "Wefunder",
+        "Headquarters Location": "San Francisco, California, United States",
+        "Website": "http://www.wefunder.com",
+        "Facebook": "https://www.facebook.com/wefunder",
+        "LinkedIn": "https://www.linkedin.com/company/wefunder",
+        "Contact Email": "support@wefunder.com"
+      },
+      {
+        "OrganizationName": "Decentraland",
+        "Headquarters Location": "Beijing, Beijing, China",
+        "Website": "https://decentraland.org",
+        "Facebook": "https://www.facebook.com/decentraland",
+        "LinkedIn": "https://www.linkedin.com/company/decentraland-foundation",
+        "Contact Email": "hello@decentraland.org"
+      },
+      {
+        "OrganizationName": "Roofstock",
+        "Headquarters Location": "Oakland, California, United States",
+        "Website": "https://www.roofstock.com",
+        "Facebook": "https://www.facebook.com/Roofstock",
+        "LinkedIn": "https://www.linkedin.com/company/roofstock",
+        "Contact Email": "support@roofstock.com"
+      },
+      {
+        "OrganizationName": "MyTraffic",
+        "Headquarters Location": "Paris, Ile-de-France, France",
+        "Website": "https://www.mytraffic.io",
+        "Facebook": "https://www.facebook.com/MyTrafficTM",
+        "LinkedIn": "https://www.linkedin.com/company/my-traffic",
+        "Contact Email": "contact@mytraffic.fr"
+      },
+      {
+        "OrganizationName": "ALAMI",
+        "Headquarters Location": "Jakarta, Jakarta Raya, Indonesia",
+        "Website": "https://alamisharia.co.id",
+        "Facebook": "https://www.facebook.com/alamisharia",
+        "LinkedIn": "https://id.linkedin.com/company/alamisharia",
+        "Contact Email": "info@alamisharia.com"
+      },
+      {
+        "OrganizationName": "LetsVenture",
+        "Headquarters Location": "Singapore, Central Region, Singapore",
+        "Website": "http://letsventure.com",
+        "Facebook": "http://www.facebook.com/Letsventurein",
+        "LinkedIn": "http://www.linkedin.com/company/letsventure",
+        "Contact Email": "sanjay@letsventure.com"
+      },
+      {
+        "OrganizationName": "Bob W",
+        "Headquarters Location": "Helsinki, Southern Finland, Finland",
+        "Website": "https://bobw.co",
+        "Facebook": "https://www.facebook.com/bobwstay",
+        "LinkedIn": "https://www.linkedin.com/company/bobw",
+        "Contact Email": "hello@bobw.co"
+      },
+      {
+        "OrganizationName": "Snapmint",
+        "Headquarters Location": "Mumbai, Maharashtra, India",
+        "Website": "https://snapmint.com/",
+        "Facebook": "https://www.facebook.com/SnapmintCardlessEmi",
+        "LinkedIn": "https://www.linkedin.com/company/snapmintfinserv/",
+        "Contact Email": "care@snapmint.com"
+      },
+      {
+        "OrganizationName": "Anonos",
+        "Headquarters Location": "New York, New York, United States",
+        "Website": "https://www.anonos.com/",
+        "LinkedIn": "http://www.linkedin.com/company/5278249",
+        "Contact Email": "LearnMore@anonos.com"
+      },
+      {
+        "OrganizationName": "Swift Navigation",
+        "Headquarters Location": "San Francisco, California, United States",
+        "Website": "http://swiftnav.com",
+        "Facebook": "https://b-m.facebook.com/swiftnav",
+        "LinkedIn": "http://www.linkedin.com/company/swift-navigation",
+        "Contact Email": "sales@swiftnav.com"
+      },
+      {
+        "OrganizationName": "Antavo",
+        "Headquarters Location": "London, England, United Kingdom",
+        "Website": "http://antavo.com",
+        "Facebook": "http://www.facebook.com/antavo",
+        "LinkedIn": "http://www.linkedin.com/company/antavo",
+        "Contact Email": "support@antavo.com"
+      },
+      {
+        "OrganizationName": "PlayVS",
+        "Headquarters Location": "Los Angeles, California, United States",
+        "Website": "https://www.playvs.com",
+        "Facebook": "https://www.facebook.com/playvscom/",
+        "LinkedIn": "https://www.linkedin.com/company/playversus/",
+        "Contact Email": "team@playvs.com"
+      },
+      {
+        "OrganizationName": "Laika",
+        "Headquarters Location": "New York, New York, United States",
+        "Website": "https://heylaika.com",
+        "Facebook": "https://www.facebook.com/heylaika",
+        "LinkedIn": "https://www.linkedin.com/company/heylaika",
+        "Contact Email": "info@heylaika.com"
+      },
+      {
+        "OrganizationName": "Juniper Square",
+        "Headquarters Location": "San Francisco, California, United States",
+        "Website": "https://www.junipersquare.com/",
+        "Facebook": "https://www.facebook.com/junipersquare/",
+        "LinkedIn": "https://www.linkedin.com/company/juniper-square/",
+        "Contact Email": "info@junipersquare.com"
+      },
+      {
+        "OrganizationName": "Zepto",
+        "Headquarters Location": "Parel, Maharashtra, India",
+        "Website": "https://www.zeptonow.com",
+        "Facebook": "https://www.facebook.com/Zeptonow",
+        "LinkedIn": "https://www.linkedin.com/company/zeptonow"
+      },
+      {
+        "OrganizationName": "Biobot Analytics",
+        "Headquarters Location": "Cambridge, Massachusetts, United States",
+        "Website": "http://www.biobot.io",
+        "Facebook": "https://www.facebook.com/biobot.io",
+        "LinkedIn": "https://www.linkedin.com/company/biobot-analytics",
+        "Contact Email": "hello@biobot.io"
+      },
+      {
+        "OrganizationName": "Freedom Games",
+        "Headquarters Location": "Gurley, Alabama, United States",
+        "Website": "https://www.freedom.gg",
+        "Facebook": "https://www.facebook.com/freedomgamesgg",
+        "LinkedIn": "https://www.linkedin.com/company/freedomgames",
+        "Contact Email": "hello@freedom.gg"
+      },
+      {
+        "OrganizationName": "Open",
+        "Headquarters Location": "Bangalore, Karnataka, India",
+        "Website": "https://open.money",
+        "Facebook": "https://www.facebook.com/BankWithOpen/",
+        "LinkedIn": "https://www.linkedin.com/company/bankwithopen/",
+        "Contact Email": "letstalk@open.money"
+      },
+      {
+        "OrganizationName": "Binance",
+        "Headquarters Location": "Valletta, NA - Malta, Malta",
+        "Website": "https://www.binance.com",
+        "Facebook": "https://www.facebook.com/binance",
+        "LinkedIn": "https://www.linkedin.com/company/binance",
+        "Contact Email": "Business@binance.com"
+      },
+      {
+        "OrganizationName": "Pie Insurance",
+        "Headquarters Location": "Washington, District of Columbia, United States",
+        "Website": "https://pieinsurance.com",
+        "Facebook": "https://www.facebook.com/PieInsurance",
+        "LinkedIn": "https://www.linkedin.com/company/pieinsurance",
+        "Contact Email": "contact@pieinsurance.com"
+      },
+      {
+        "OrganizationName": "Horizon Robotics",
+        "Headquarters Location": "Haidian, Beijing, China",
+        "Website": "https://www.horizon.ai",
+        "LinkedIn": "https://www.linkedin.com/company/horizonrobotics",
+        "Contact Email": "bd@horizon.ai"
+      },
+      {
+        "OrganizationName": "FinAccel",
+        "Headquarters Location": "Jakarta, Jakarta Raya, Indonesia",
+        "Website": "http://www.finaccel.co",
+        "Facebook": "https://www.facebook.com/FinAccel",
+        "LinkedIn": "https://www.linkedin.com/company/finaccel-pte-ltd",
+        "Contact Email": "hello@finaccel.co"
+      },
+      {
+        "OrganizationName": "Hourwork",
+        "Headquarters Location": "Boston, Massachusetts, United States",
+        "Website": "https://www.hourwork.com",
+        "LinkedIn": "https://www.linkedin.com/company/hourwork/",
+        "Contact Email": "hello@syrg.app"
+      },
+      {
+        "OrganizationName": "SirionLabs",
+        "Headquarters Location": "New York, New York, United States",
+        "Website": "http://sirionlabs.com",
+        "Facebook": "https://www.facebook.com/SirionLabs/",
+        "LinkedIn": "http://www.linkedin.com/company/sirionlabs",
+        "Contact Email": "contact@sirionlabs.com"
+      },
+      {
+        "OrganizationName": "DWF Labs",
+        "Headquarters Location": "Singapore, Central Region, Singapore",
+        "Website": "https://www.dwf-labs.com",
+        "LinkedIn": "https://www.linkedin.com/company/82082012/",
+        "Contact Email": "hello@dwf-labs.com"
+      }
+    ]
+  }

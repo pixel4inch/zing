@@ -1,0 +1,156 @@
+{
+"ai":[
+ {
+  "Event": "Data Innovation Summit APAC",
+  "Location": "",
+  "Country": "Singapore",
+  "Description": "The Data Innovation Summit is the largest and the most influential annual Data and AI event represented in three regions, bringing together the most innovative minds, enterprise practitioners, technology providers, start-up innovators and academics, working with Data Science, Big Data, ML, AI, Data Management, Data Engineering, IoT and Analytics, in one place to discuss ways to accelerate AI driven Transformation throughout companies, industries and public organisations. The Data Innovation Summit APAC is constructed so it equally addresses all the elements of data-driven and AI-innovative business: data, people, processes and technology. The event is built to be both business and technical, practical and inspirational, realistic and futuristic, educational and exciting, regional and global, live and digital, general and niched, inspiring and influential. It is showcasing some of the best data driven innovative projects, products, business ideas and technologies, presented by some of the most advanced and innovative organisations in the world.",
+  "URL": "https://apac.datainnovationsummit.com/",
+  "Date": "January 12, 2023-"
+ },
+ {
+  "Event": "Data Science Salon: AI & Machine Learning in the Enterprise ",
+  "Location": "Austin, Texas",
+  "Country": "USA",
+  "Description": "Data Science Salon Austin is a two-day 500 person conference focused on AI and machine learning applications in the enterprise. The intimate event curates data science sessions to bring industry leaders and specialists face-to-face to educate each other on innovative new solutions in artificial intelligence, machine learning, predictive analytics and acceptance around best practices. Data Science Salon attendees are executives, senior data science practitioners, data science managers, analysts, and engineering professionals. The format includes a combination of talks, workshops, and panels with an optional expo and lots of time for networking in a casual environment with entertainment.",
+  "URL": "https://www.datascience.salon/austin/",
+  "Date": "February 21 to 22, 2023"
+ },
+ {
+  "Event": "ACM/IEEE International Conference on Human-Robot Interaction",
+  "Location": "Stockholm ",
+  "Country": "Sweden",
+  "Description": "We are excited to announce the 18th Annual ACM/IEEE International Conference on Human Robot Interaction (HRI). HRI 2023 is the 18th annual conference for basic and applied HRI research. Researchers from across the world present their best work to HRI to exchange ideas about the theory, technology, data, and science furthering the state-of-the-art in the field. The conference theme for HRI 2023 is “HRI for all” and will focus on key HRI theories, methods, designs, studies, and technical advances that aim to understand and promote inclusion and diversity in HRI. We encourage the community to consider ways to both make the field a more inclusive place for those who may not feel included, as well as to encourage inclusion within our research methods and practices. There are many ways to participate in HRI 2023, including full papers, late breaking reports, demos, videos, and workshops. There are many opportunities particularly for students and those new to the field to be involved, including via volunteering and participating in mentoring workshops. The conference will be held from March 13-16, 2023 in Stockholm, Sweden. We aim to have it be a hybrid conference, with opportunities to participate both in person and online. ",
+  "URL": "https://humanrobotinteraction.org/2023/",
+  "Date": "March 13 to 16, 2023"
+ },
+ {
+  "Event": "The European Chatbot & Conversational AI Summit",
+  "Location": "Edinburgh, ",
+  "Country": "UK ",
+  "Description": "The European Chatbot & Conversational AI Summit is a two days conference and exhibition designed to host industry executives, and adopters of Conversational AI, Chatbots, Virtual assistant, voice technology and Conversation design. The summit will reflect the latest tendencies and recent application changes in the Conversational AI space in the European market. We believe conversational AI will transform millions of lives in Europe and our goal is to help form a better ecosystem. We do so by organising series of international conferences in Europe, Africa and IBEROAMERICA by bringing the leading professionals and organisations who design, build, and market conversational AI based technologies.",
+  "URL": "https://theeuropeanchatbot.com/",
+  "Date": "March 15 to 16, 2023 "
+ },
+ {
+  "Event": "Data Science Salon: Applying AI & Machine Learning to Media & Advertising",
+  "Location": "New York",
+  "Country": "USA",
+  "Description": "The Data Science Salon is a unique vertical focused conference which grew into the most diverse community of senior data science, machine learning and other technical specialists in the space.DSS has spinoffs like DSS Insider (our on-demand content portal) and DSSElevate (non-profit elevating women in data initiative) and other learning programs such as: DSS Webinars, Meetups, DSS Trainings, Newsletters, Thought Leadership Forum, Mentorship and Recruitment Initiatives.",
+  "URL": "https://www.datascience.salon/nyc/",
+  "Date": "April 4, 2023-"
+ },
+ {
+  "Event": "AI Hardware Summit",
+  "Location": "Santa Clara, CA",
+  "Country": "USA",
+  "Description": "The AI Hardware Summit is the premier commercial event focused on systems-first machine learning. Our community’s goal is to reduce time-to-value in the ML lifecycle, and to unlock new possibilities for AI development. This involves a full-stack effort of efficient operationalization of AI in organizations, productionization of models, tight hw/sw co-design and best-in-class microarchitectures. We are creating a feedback loop between those designing AI systems and those using them, to accelerate the development and adoption of AI technologies across industries.",
+  "URL": "https://aihardwaresummit.com/events/aihardwaresummit",
+  "Date": "September 12 to 14, 2023"
+ },
+ {
+  "Event": "The AI Summit New York",
+  "Location": "New York",
+  "Country": "USA",
+  "Description": "Taking place in the nexus of global commerce, the AI Summit New York is your chance to meet the ecosystem's pioneering tech authorities and get exclusive access to the business leaders driving them. Strengthen your AI strategy in the commercial heartland of applied AI. Hear from enterprise leaders on the implementation opportunities and challenges of AI. Access unparalleled opportunities for discovery, amazing interactive demos, and an incredible line-up of analysts and leaders.",
+  "URL": "https://newyork.theaisummit.com/?utm_source=partner&utm_medium=eventlisting&utm_campaign=uniteai&utm_content=TAI2287&tracker_id=TAI2287",
+  "Date": "December 6 to 7, 2023"
+ },
+ {
+  "Event": "Edge AI Summit ",
+  "Location": "Santa Clara, CA",
+  "Country": "USA",
+  "Description": "For its 5th year, Kisaco Research’s Edge AI Summit returns to the Bay Area, CA, fully face-to-face and co-located with the industry leading AI Hardware Summit. This year’s event has been re-thought, re-designed and re-built from the ground up through research with industry experts to support enterprise adopters, OEMs, AI software, and hardware providers in their pursuit of deploying economical, efficient, and optimized AI at the edge. Across two-days, you will join thought-provoking discussion and hear engaging insight from those tasked with bringing real-time and secure AI to low-power applications and areas that have limited connectivity to the cloud. And the co-location with AI Hardware Summit means you will rub shoulders with hardware and systems engineers and architects under one roof. The best of the best from Silicon Valley, alongside pathfinding practitioners from enterprises and research institutions from across the globe. The combined proposition sits at the intersection of systems design and AI development. We’re here to boost developer efficiency, expand AI practitioners’ toolkits, and improve the overall quality of collaboration between systems builders and the ML community.",
+  "URL": "https://edgeaisummit.com/events/edge-ai-summit",
+  "Date": "September 12 to 14, 2023"
+ },
+ {
+  "Event": "Ai4 2023",
+  "Location": "Las Vegas, NV",
+  "Country": "USA",
+  "Description": "Over two and a half days, Ai4 2023 brings together business leaders and data practitioners to facilitate the responsible adoption of artificial intelligence and machine learning technology. Join us at the industry’s most impactful AI event.",
+  "URL": "https://ai4.io/usa/",
+  "Date": "August 7 to 9, 2023"
+ },
+ {
+  "Event": "International Conference on Smart Technology, Artificial Intelligence and Computer Engineering (ICSTAICE)",
+  "Location": "Pune, Maharashtra",
+  "Country": "India",
+  "Description": "The aim objective of ICSTAICE is to provide a world class platform to present and discuss all the latest research and results of scientists related Smart Technology, Artificial Intelligence and Computer Engineering. This conference provides opportunities for the different areas delegates to exchange new ideas and application experiences face to face, to establish business or research relations and to find global partners for future collaboration. We hope that the conference results constituted significant contribution to the knowledge in these up to date scientific field. The organizing committee of conference is pleased to invite prospective authors to submit their original manuscripts to ICSTAICE. The conference will be held every year to make it an ideal platform for people to share views and experiences in Computer Science and Information Technology related areas.",
+  "URL": "http://iraj.in/Conference/13489/ICSTAICE/",
+  "Date": "1st February 2023"
+ },
+ {
+  "Event": "International Conference on Artificial Intelligence and Big Data (AIBD)",
+  "Location": "Copenhagen ",
+  "Country": "Denmark",
+  "Description": "4th International Conference on Artificial Intelligence and Big Data (AIBD 2023) will provide an excellent international forum for sharing knowledge and results in theory, methodology and applications of on Artificial Intelligence and Big Data. The aim of the conference is to provide a platform to the researchers and practitioners from both academia as well as industry to meet and share cutting-edge development in the field. Topics covered in the conference include AI Algorithms, Artificial Intelligence Tools and Application, Computational Theories of Learning, Data Mining and Machine Learning Tools, Fuzzy Logic, Heuristic and AI Planning Strategies and Tools, Hybrid Intelligent System, Intelligent System Architecture.",
+  "URL": "https://acsty2023.org/aibd/index",
+  "Date": "January 28 - 29, 2023"
+ },
+ {
+  "Event": "The International Conference on Control Engineering and Artificial Intelligence (CCEAI)",
+  "Location": "Sanya ",
+  "Country": "China",
+  "Description": "2023 7th International Conference on Control Engineering and Artificial Intelligence (CCEAI 2023) will be held in Sanya, China during Jan. 28-30, 2023. CCEAI 2023 is co-organized by Asia Pacific Institute of Science and Engineering (APISE) and Jiangnan University, and technical sponsored by York University and Xi 'an Jiaotong-Liverpool University. We warmly welcome prospective authors to submit their new research or technological contributions to CCEAI 2023, for sharing valuable experiences with scientists and students from around the world. Topics covered include AI Algorithms; Artificial Intelligence Tools & Applications; Bioinformatics; Natural Language Processing; CAD Design & Testing; Computer Vision and Speech Understanding; Data Mining and Machine Learning Tools; Fuzzy Logic; Heuristic and AI Planning Strategies and Tools; Computational Theories of Learning; Hybrid Intelligent Systems; Information Retrieval; Intelligent System Architectures;Knowledge Representation; Knowledge-based Systems; Multimedia & Cognitive Informatics; Neural Networks; Parallel Processing; Pattern Recognition ; Pervasive Computing and Ambient Iintelligence; Programming Languages; Reasoning and Evolution; Recent Trends and Developments; Semantic Web Techniques and Technologies; Soft Computing Theory and Applications; Software and Hardware Architectures; Web Intelligence Applications and Search;",
+  "URL": "http://www.cceai.org/ ",
+  "Date": "January 28 - 30, 2023"
+ },
+ {
+  "Event": "International Conference on Natural Language Processing",
+  "Location": "Paris ",
+  "Country": "France",
+  "Description": "International Conference on Natural Language Processing aims to bring together leading academic scientists, researchers and research scholars to exchange and share their experiences and research results on all aspects of Natural Language Processing. It also provides a premier interdisciplinary platform for researchers, practitioners and educators to present and discuss the most recent innovations, trends, and concerns as well as practical challenges encountered and solutions adopted in the fields of Natural Language Processing.",
+  "URL": "https://waset.org/natural-language-processing-conference-in-february-2023-in-paris",
+  "Date": "February 06 - 07, 2023"
+ },
+ {
+  "Event": "International Conference on Machine Learning and Computing (ICMLC)",
+  "Location": "Zhuhai ",
+  "Country": "China",
+  "Description": "2023 14th International Conference on Machine Learning and Computing will be held in Zhuhai, China on February 17 - 20, 2023 together with the workshop: ICBDM 2023 The International Conference on Machine Learning and Computing (ICMLC 2023) will provide opportunities for researchers in this field to share their ideas and reinforce collaboration since 2009. As such, the conference has achieved a remarkable number participants while also enable profuse exchanges among academic and industrial researchers over the years. The spectrum of machine learning and computing includes, but is not limited to, data collection, data preparation, model building, training and application deployment.",
+  "URL": "http://www.icmlc.org/",
+  "Date": "February 17 - 20, 2023"
+ },
+ {
+  "Event": "Intelligent Systems Conference (IntelliSys) 2023",
+  "Location": "Amsterdam ",
+  "Country": "The Netherlands",
+  "Description": "Intelligent Systems Conference (IntelliSys) 2023 will focus on areas of intelligent systems and artificial intelligence and how it applies to the real world. IntelliSys is one of the best respected AI Conference. IntelliSys provides a leading international forum that brings together researchers and practitioners from diverse fields with the purpose of exploring the fundamental roles, interactions as well as practical impacts of Artificial Intelligence. It is part of the conference series started in 2013. The goal of the conference is to be a premier venue for researchers and industry practitioners to share new ideas, research results and development experiences in various fields. The conference includes talks by industry experts on the state-of-the-art in computer science; lectures by eminent scientists designed to inspire and inform; presentations by innovative researchers coming from 50+ countries; and discussion-oriented sessions and networking breaks to enable collaborations.",
+  "URL": "https://saiconference.com/IntelliSys",
+  "Date": "7-8 September 2023 "
+ },
+ {
+  "Event": "AIMLA 2023 : 3rd International Conference on AI, Machine Learning and Applications",
+  "Location": "Vancouver ",
+  "Country": "Canada",
+  "Description": "3rd International Conference on AI, Machine Learning and Applications (AIMLA 2023) will provide an excellent international forum for sharing knowledge and results in theory, methodology and applications of Artificial Intelligence and Machine Learning. The Conference looks for significant contributions to all major fields of the Artificial Intelligence, Machine Learning in theoretical and practical aspects. The aim of the Conference is to provide a platform to the researchers and practitioners from both academia as well as industry to meet and share cutting-edge development in the field. Authors are solicited to contribute to the conference by submitting articles that illustrate research results, projects, surveying works and industrial experiences that describe significant advances in the areas of AI, ML and Applications.",
+  "URL": "https://www.ccnet2023.org/aimla/index",
+  "Date": "Feb 25, 2023 - Feb 26, 2023"
+ },
+ {
+  "Event": "2023 UofT AI Conference",
+  "Location": "Toronto",
+  "Country": "Canada",
+  "Description": "The University of Toronto annual AI conference is a two-day event, aimed at furthering discourse around the cutting-edge of Artificial Intelligence (AI) and Machine Learning (ML). This event will host leading researchers, industry professionals and some of the brightest undergraduate students in Canada. Our vision is to encourage conversation around recent developments in AI, and provide our attendees the opportunity to expand their network and gain exposure to new opportunities. Our 2023 UofT AI Conference will also host the winners of our annual undergraduate ML research competition, Project X. This year , the research topic for Project X is Human-Computer Interaction. In addition, the winners will be presenting their research at the conference! At UofT AI, we bridge brilliant students to opportunities in academia and industry through a variety of initiatives, including the UofT AI Conference! Our group is composed of passionate undergraduates interested in AI and ML. Our members come from diverse academic backgrounds, including Computer Science, Engineering, Mathematics, Humanities, Business, Cognitive Science, Biology, Neuroscience, and more. The club’s activities introduce our members to an assortment of topics within the field of AI, familiarize them with cutting-edge research, and connect them with a range of career opportunities available today.",
+  "URL": "https://www.eventbrite.com/e/2023-uoft-ai-conference-tickets-448697625677",
+  "Date": "January 21-22, 2023"
+ },
+ {
+  "Event": "THE 32nd INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE",
+  "Location": "Cape Town, ",
+  "Country": "South Africa",
+  "Description": "Welcome to IJCAI 2023, the 32nd International Joint Conference on Artificial Intelligence, the premier international gathering of researchers in AI! Submissions are invited for the 32nd International Joint Conference on Artificial Intelligence, which is planned to be held in Cape Town, South Africa, from Aug 19th to Aug 25th, 2023. Starting from 1969, IJCAI has remained the premier conference bringing together the international AI community to communicate the advances and achievements of artificial intelligence research.",
+  "URL": "https://ijcai-23.org/",
+  "Date": "19th-25th August 2023"
+ },
+ {
+  "Event": "REINFORCE AI CONFERENCE",
+  "Location": "BUDAPEST",
+  "Country": "Hungary",
+  "Description": "An AI and ML conference in Europe that brings top-knotch experts together to discuss what artificial intelligence is and what are the keys to all future technologies on artificial intelligence, machine learning, automation and cognitive systems. Reinforce conference brings together an AI community in the heart of Hungary, where they can join a platform for discourse, innovation and network. Meet other like-minded people who join Reinforce to learn about artificial intelligence and machine learning. Learn from the greatest experts who tell you about the latest trends and best practices in artificial intelligence. You might need to refresh your memory later. Thanks to being hybrid, the recordings will be available and you can get back to them.",
+  "URL": "https://reinforceconf.com/2023",
+  "Date": "MARCH 6-7, 2023"
+ }
+]
+}

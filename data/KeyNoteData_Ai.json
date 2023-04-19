@@ -1,0 +1,28 @@
+{
+	"keynoteData": [
+		{
+			"id":"ai",
+			"KeyNote": [{
+					"Note": "KeyNote-1",
+					"Title": "Chris Gledhill",
+					"Designation": "Independent FinTech Advisor, Futurist, Writer & Speaker",
+					"Description": "Chris Gledhill is generally recognized to be the world’s top ranking authority on Fintech. Chris was at the head of the Lloyds Banking Group innovation labs. He followed this by co-founding and working as CEO of the UK Challenger Bank Secco. Chris boasts a high-tech and corporate career history and speaks with expertise and eloquence on a vast range of so-called 'disruptive technologies'. These include AI, API, Big Data, Biometrics, Blockchain, CryptoCurrencies, Deep Learning, Mobiles, Virtual Reality, and Wearables.",
+					"KeySpeaker": "https://ip1-cdn.marketglass.com/uploads/images/c/p/f/k/i/raghu-vasu.jpeg"
+				},
+
+
+				{
+					"Note": "KeyNote-2",
+					"Title": "Jason Bates",
+					"Designation": "Digital Banking Executive",
+					"Description": "FinTech speaker Jason Bates has spent the last few years creating, building, and testing next generation digital banking propositions in the wild. Jason has co-founded two digital banks (Monzo and Starling) and as Chief Customer Officer created the propositions, built product teams, led the design development of the award winning Monzo app, and defended the regulatory application with the FCA / PRA.",
+					"KeySpeaker": "https://ip1-cdn.marketglass.com/uploads/images/q/v/7/n/d/rq3ew2bfcxtovbwjbbhlpgtmxamppfvtavpewzkm.png"
+
+				}
+			]
+
+		}
+
+	]
+
+}
