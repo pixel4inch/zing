@@ -10,15 +10,21 @@ class FooterComponent extends HTMLElement {
 		   
 			<div class="col-xl-12 col-1g-12 col-md-12 col-12 mx-auto align-self-center">
 				<div class="block">
-					<ul class="footerLinks">
+				<ul class="footerLinks">
+				
+					<li class="nav-item"><a href="JoinUs.html" class="nav-link">JOIN US</a></li>
+										   <li class="nav-item"><a href="insider.html" class="nav-link">INSIDER</a></li>
+					<li class="nav-item"><a href="volunteer.html" class="nav-link">VOLUNTEER</a></li>
 					
-						<li class="nav-item"><a href="javascript:valid(0)" class="nav-link">VOLUNTEER</a></li>
-						<li class="nav-item"><a href="javascript:valid(0)" class="nav-link">SPONSORS</a></li>
-						<li class="nav-item"><a href="javascript:valid(0)" class="nav-link">MEDIA</a></li>
-						<li class="nav-item"><a href="javascript:valid(0)" class="nav-link">PRIVACY POLICY</a></li>
-						<li class="nav-item"><a href="javascript:valid(0)" class="nav-link">SERVICE AGREEMENT</a></li>	
-						<li class="nav-item"><a href="javascript:valid(0)" class="nav-link">CONTACT</a></li>			
-					  </ul>
+					<li class="nav-item"><a href="sponsor.html" class="nav-link">SPONSORS</a></li>
+					<li class="nav-item"><a href="media.html" class="nav-link">MEDIA</a></li>
+											
+					<li class="nav-item"><a href="privacy.html" class="nav-link">PRIVACY POLICY</a></li>
+					<li class="nav-item"><a href="serviceagreements.html" class="nav-link">SERVICE AGREEMENT</a></li>	
+					<li class="nav-item"><a href="partners.html" class="nav-link">PARTNERS</a></li>	
+					
+					<li class="nav-item"><a href="CONTACTUS.html" class="nav-link">CONTACT</a></li>			
+				  </ul>
 				</div>
 			</div>
 			<div class="col-xl-11 col-1g-12 col-md-12 col-12 mx-auto footer-divider"></div>

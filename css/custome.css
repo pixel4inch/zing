@@ -647,3 +647,58 @@ ul.lower-roman {
         margin-bottom: 10px;
     }
 }
+
+
+
+
+
+
+/*===================
+ Service AGREEMNET
+=====================*/
+
+#serviceagrement_tab ul li {
+    margin-bottom: 2px;
+}
+
+#serviceagrement_tab h2 {
+    font-size: 16px !important;
+    margin-top: 20px;
+    color: #000 !important;
+    font-weight: 600;
+    line-height: normal;
+}
+
+#privacy_tab ul li, #serviceagrement_tab p {
+    font-size: 15px !important;
+}
+
+#privacy_tab #accordionExample .card:nth-child(even) .card-header {
+    background: #f5f5f5 !important;
+}
+
+#privacy_tab ul li {
+    margin-bottom: 2px;
+}
+
+#privacy_tab h2 {
+    font-size: 16px !important;
+    margin-top: 30px !important;
+    margin-bottom: 15px !important;
+    color: #000 !important;
+    font-weight: 600;
+    line-height: normal;
+}
+
+#privacy_tab p, #privacy_tab ul li {
+    font-size: 15px !important;
+    margin-bottom: 7px;
+}
+
+#privacy_tab #accordionExample .card:nth-child(even) .card-header {
+    background: #f5f5f5 !important;
+}
+
+#privacy_tab #accordionExample .card .card-header h2 button {
+    font-weight: 600 !important;
+}
