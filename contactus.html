@@ -30,6 +30,7 @@
     <link rel="stylesheet" href="plugins/slick/slick-theme.css" />
     <link rel="stylesheet" href="plugins/fancybox/jquery.fancybox.min.css" />
     <link rel="stylesheet" href="plugins/aos/aos.css" />
+
     <!-- CUSTOM CSS -->
     <link href="css/style.css" rel="stylesheet" />
     <link href="css/custome.css" rel="stylesheet" />
@@ -37,12 +38,11 @@
       href="./plugins/jsvectormap-master/dist/css/jsvectormap.css"
       rel="stylesheet"
     />
-
-    <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
     <!---WEB COMPONETNS-->
     <script src="./webcomponts/headerComponents.js"></script>
     <script src="./webcomponts/FooterComponent.js"></script>
     <script src="./webcomponts/ScrollToTop.js"></script>
+    <script src="./webcomponts/dummytext.js"></script>
   </head>
 
   <body class="body-wrapper" data-spy="scroll" data-target=".privacy-nav">
@@ -51,143 +51,72 @@
 =============================-->
     <header-component></header-component>
 
-    <!---====================================
-=            Hero Section            =
-=====================================--->
-<div class="body-content">
+    <!--================================
+=           top section         =
+=================================-->
 
-    <section class="address section p-3  bg-light">
+    <div class="body-content">
+      <section class="address section p-3 bg-light">
         <div class="container">
-            <div class="row">
-    
-                <div class="col-md-4 mt-3 mt-lg-0">
-                    <div class="block">
-                        <div class="address-block text-center mb-3">
-                            <div class="icon">
-                                <i class="ti-map-alt"></i>
-                            </div>
-                            <div class="details">
-                                
-                                <h3 class="mb-0">6150 Hellyer Ave., San Jose, CA 95138, USA</h3>
-    
-                                
-                            </div>
-                        </div>
-    
-                        
-                    
-                    </div>
+          <div class="row">
+            <div class="col-md-4 mt-3 mt-lg-0">
+              <div class="block">
+                <div class="address-block text-center mb-3">
+                  <div class="icon">
+                    <i class="ti-map-alt"></i>
+                  </div>
+                  <div class="details">
+                    <h3 class="mb-0">
+                      6150 Hellyer Ave., San Jose, CA 95138, USA
+                    </h3>
+                  </div>
                 </div>
-    
-    
-                <div class="col-md-4 mt-3 mt-lg-0">
-                    <div class="block">
-                        <div class="address-block text-center mb-3">
-                            <div class="icon">
-                                <i class="ti-mobile"></i>
-                            </div>
-                            <div class="details">
-                                <h3>+1 (669) 400-8001</h3>
-                                
-                            </div>
-                        </div>
-    
-                    </div>
-                </div>
-    
-    
-                <div class="col-md-4 mt-3 mt-lg-0">
-                    <div class="block">
-                       
-    
-                        <div class="address-block text-center mb-3">
-                            <div class="icon">
-                                <i class="ti-email"></i>
-                            </div>
-                            <div class="details">
-                                <h3>contact@zing.biz</h3>
-                                
-                            </div>
-                        </div>
-                    
-                    </div>
-                </div>
+              </div>
             </div>
+
+            <div class="col-md-4 mt-3 mt-lg-0">
+              <div class="block">
+                <div class="address-block text-center mb-3">
+                  <div class="icon">
+                    <i class="ti-mobile"></i>
+                  </div>
+                  <div class="details">
+                    <h3>+1 (669) 400-8001</h3>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-md-4 mt-3 mt-lg-0">
+              <div class="block">
+                <div class="address-block text-center mb-3">
+                  <div class="icon">
+                    <i class="ti-email"></i>
+                  </div>
+                  <div class="details">
+                    <h3>contact@zing.biz</h3>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
-    </section>
-    
-    
-    <section class="contact-form section mt-2">
+      </section>
+
+      <section class="contact-form section mt-2">
         <div class="container">
-            <div class="w-100 mx-0">
-                <div class="col-xl-10 col-lg-9 col-md-12 col-12 mx-auto p-3  ">          
-    
-    
-                 
-    
-                  <div class="row mx-0 mt-3" id="formblock">
-                    <!-- Fname -->
-                    <div class="col-sm-6 mb-3 px-1">
-                     
-                      <input class="form-control w-100 border-radius-0 " type="text" required="" id="first_name" name="first_name">
-                      <span class="floating-label"> First Name <span class="text-danger">*</span> </span>
-                    </div>
-                    <!-- LName -->
-                    <div class="col-sm-6 mb-3 px-1 ">
-                    
-                      <input class="form-control w-100 border-radius-0" type="text" required="" id="last_name" name="last_name">
-                        <span class="floating-label"> Last Name <span class="text-danger">*</span> </span>
-                    </div>
-    
-    
-                                      <!-- Designation -->
-                      <div class="col-sm-6 mb-3 px-1">
-                     
-                      <input class="form-control w-100 border-radius-0" type="text" required="" id="title" name="title">
-                         <span class="floating-label"> Position <span class="text-danger">*</span> </span>
-                  
-                  </div>
-                    <!-- company -->
-                    <div class="col-sm-6 mb-3 px-1">
-                     
-                      <input class="form-control w-100 border-radius-0" type="text" required="" id="company" name="company">
-                        <span class="floating-label"> Company <span class="text-danger">*</span> </span>
-                  </div>
-    
-                    <!-- email -->
-                    <div class="col-sm-6 mb-3 px-1">
-                    
-                      <input class="form-control w-100 border-radius-0" type="text" required="" id="email" name="email">
-                             <span class="floating-label"> Email <span class="text-danger">*</span> </span>
-                   </div>
-                      <!-- phone -->
-                    <div class="col-sm-6 mb-3 px-1">
-                      <input class="form-control w-100 border-radius-0" type="text" id="phone" name="phone">
-                       <span class="floating-label"> Phone  </span>
-                  
-                  </div>
-                    <p class="text-xl-left text-lg-left ml-2 text-md-left text-sm-left text-center mt-0  mandatory-msg ">Fields marked  <span style="color:red">*</span> are mandatory</p>
-                    <!-- Submit Button -->
-                                    <input type="hidden" name="page_source" id="page_source" value="https://www.Zing.cc/CONTACTUS.html">
-    
-                    <div class="col-12 text-center my-4">
-                      <button class="btn btn-main-md mx-auto py-2 px-2 " onclick="SaveData();">Submit</button>
-                    </div>
-    
-                  </div>
-                
-              </div>
-              </div>
+          <div class="row mx-0 w-100">
+            <div class="col-xl-9 col-lg-9 col-md-12 col-12 mx-auto p-2">
+              <iframe src="Add_contactus.asp" class="contact-iframe"></iframe>
+            </div>
+          </div>
         </div>
-    </section>
-    
+      </section>
     </div>
-    <!--====  End of Hero Section  ====-->
 
     <!--============================
 	           Footer            
 =============================-->
-
     <footer-component></footer-component>
 
     <!---============================
@@ -197,7 +126,7 @@
     <scrolltop-component></scrolltop-component>
 
     <!-- JAVASCRIPTS -->
-
+    <script src="plugins/jquery/jquery.min.js"></script>
     <script src="plugins/bootstrap/bootstrap.min.js"></script>
     <script src="plugins/slick/slick.min.js"></script>
     <script src="plugins/fancybox/jquery.fancybox.min.js"></script>
@@ -206,11 +135,10 @@
     <!-- google map -->
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAgeuuDfRlweIs7D6uo4wdIHVvJ0LonQ6g"></script>
     <script src="plugins/google-map/gmap.js"></script>
-    <script src="js/script.js"></script>
 
-    <!---HOME PAGE MAP-->
+    <script src="js/script.js"></script>
     <script src="./js/submenu_select.js"></script>
-    <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+
     <script
       type="text/javascript"
       src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"
@@ -246,6 +174,14 @@
           "google_translate_element"
         );
       }
+    </script>
+
+    <script>
+      let form = document.getElementsByTagName("form")[0];
+      form.addEventListener("submit", (e) => {
+        e.preventDefault();
+        alert("Thanks for submitting!");
+      });
     </script>
   </body>
 </html>
