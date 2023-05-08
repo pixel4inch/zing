@@ -64,14 +64,14 @@
         top: 8px;
         font-weight: bold;
         color: red !important;
+      }
 
-        .formmandatory {
-          position: absolute;
-          left: 10px;
-          top: 5px;
-          color: red;
-          font-size: 13px;
-        }
+      .formmandatory {
+        position: absolute;
+        left: 10px;
+        top: 5px;
+        color: red;
+        font-size: 13px;
       }
     </style>
     <script>
