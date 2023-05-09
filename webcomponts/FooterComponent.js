@@ -12,7 +12,7 @@ class FooterComponent extends HTMLElement {
 				<div class="block">
 				<ul class="footerLinks">
 				
-					<li class="nav-item"><a href="JoinUs.html" class="nav-link">JOIN US</a></li>
+					<li class="nav-item"><a href="JoinUs.asp" class="nav-link">JOIN US</a></li>
 										   <li class="nav-item"><a href="insider.html" class="nav-link">INSIDER</a></li>
 					<li class="nav-item"><a href="volunteer.html" class="nav-link">VOLUNTEER</a></li>
 					

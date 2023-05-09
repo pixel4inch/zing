@@ -1343,6 +1343,15 @@ hr {
   padding: 0;
 }
 
+.team-sm .image {
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 9px;
+  width: 280px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
 .icon-box {
   height: 80px;
   width: 80px;

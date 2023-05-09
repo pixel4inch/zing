@@ -47,9 +47,7 @@
     <!-- CUSTOM CSS -->
     <link href="css/style.css" rel="stylesheet" />
     <link href="css/custome.css" rel="stylesheet" />
-    <link
-      href="./plugins/jsvectormap-master/dist/css/jsvectormap.css"
-      rel="stylesheet"
+    <link href="./plugins/jsvectormap-master/dist/css/jsvectormap.css" rel="stylesheet"
     />
 
     <script

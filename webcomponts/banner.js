@@ -10,11 +10,8 @@ template.innerHTML = `
     line-height: 52px !important;
     margin-bottom: 8px;
     text-transform: uppercase;
-<<<<<<< Updated upstream
     text-aling:center;
     width:100%
-=======
->>>>>>> Stashed changes
 }
 
 h4{
@@ -37,17 +34,10 @@ h4{
 
 </style>
 
-<<<<<<< Updated upstream
     <div class="col-12 w-100">
         <div class=" title">
             <h1 class="tx> </h1>
             <!--h4>Global Virtual Summits</h4-->
-=======
-    <div class="col-12">
-        <div class=" title">
-            <h1> </h1>
-            <h4>Global Virtual Summits</h4>
->>>>>>> Stashed changes
         </div>
         <i class="fa fa-calendar" aria-hidden="true"></i>
         
@@ -77,7 +67,6 @@ class EmployeeCard extends HTMLElement{
 
   }
 }
-<<<<<<< Updated upstream
 window.customElements.define('employee-card', EmployeeCard);
 
 
@@ -158,7 +147,7 @@ class EventCollapseComponent extends HTMLElement {
               <a class="my-2 equal-button btn d-block btn-sm shadow   p-3  mx-3 main-bg-color text-white  recommeded_export" target="_blank" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false"  aria-controls="collapseExample" >
               RECOMMEND AN EXPERT </a>
               <a class="my-2 equal-button btn d-block btn-sm shadow   p-3  mx-3 main-bg-color text-white  recommeded_export" target="_blank" data-toggle="collapse" href="#collapseExample4" role="button" aria-expanded="false"  aria-controls="collapseExample"
-              WHAT’S TRENDING </a>
+              WHATâ€™S TRENDING </a>
           </div>
   <!---->
       <div class=" w-100 mx-0 mt-3">
@@ -192,6 +181,3 @@ class EventCollapseComponent extends HTMLElement {
 
 
 customElements.define('eventcolapse-component', EventCollapseComponent);
-=======
-window.customElements.define('employee-card', EmployeeCard);
->>>>>>> Stashed changes

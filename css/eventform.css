@@ -1,0 +1,261 @@
+@import url(color.css);
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Roboto:ital,wght@0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Poppins:wght@100;200;300;400;500;600;700&family=Quicksand:wght@300;400;500;600;700&family=Source+Sans+Pro:ital,wght@0,200;0,400;0,700;1,200;1,300;1,400;1,600;1,700;1,900&family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+/*===================
+        FORM 
+====================*/
+
+#page-wrapper {
+    width: 800px;
+    padding: 25px 25px 10px 25px;
+    font-family: Poppins;
+}
+
+#page-wrapper p,
+#page-wrapper h1,
+#page-wrapper h2,
+#page-wrapper h3,
+#page-wrapper h4,
+#page-wrapper h5,
+#page-wrapper h6 {
+    font-family: Poppins;
+}
+
+#page-wrapper p {
+    font-size: 14px;
+}
+
+/*====PAGE HADER=====*/
+
+.page-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+}
+
+.page-header .navbar-brand {
+    margin-right: 0px !important;
+}
+
+.page-header .brandImg {
+    width: 140px;
+    height: auto;
+
+}
+
+.page-header .b20-logo {
+    width: 157px;
+    height: auto;
+    margin-top: 10px;
+}
+
+.page-header .form-title {
+    text-align: center;
+    flex-grow: 1;
+
+}
+
+.page-header .form-title h1 {
+    font-weight: 700;
+    font-size: 22.5px;
+    color: var(--maincolor);
+    line-height: 19px;
+    margin-top: 8px;
+    margin-bottom: 3px;
+
+}
+
+.page-header .form-title p {
+    font-size: 15px !important;
+    line-height: 21px;
+}
+
+.page-header .form-title .speakerinvite p:nth-child(3) {
+    letter-spacing: 0.1px;
+}
+
+/*--- PAGE CONTENT ----*/
+
+.highlight_section {
+    width: 750px;
+    margin: 0 auto;
+    margin-top: 30px;
+    border-radius: 0px 0px 15px 15px;
+    box-shadow: 0px 10px 5px rgba(0, 0, 0, 0.09);
+    padding: 12px;
+
+
+}
+
+.page-content .highlight_section h5 {
+    font-family: 'Tinos' !important;
+    font-size: 16px !important;
+}
+
+
+.page-content .highlight_section p {
+    font-family: 'Tinos' !important;
+    font-size: 15px !important;
+
+}
+
+.page-content .highlight_section .co-chair p {
+    line-height: normal;
+}
+
+/*---  Task section ----*/
+
+.tasks-section h3 {
+    font-size: 17px;
+    font-weight: bold;
+    color: var(--maincolor);
+
+}
+
+/*---  PLEASE NOTE ----*/
+
+.note h3 {
+    font-size: 17px;
+    font-weight: bold;
+
+
+}
+
+.note p {
+    font-style: italic;
+    font-size: 17px;
+}
+
+/*---  PLEASE NOTE ----*/
+.page-footer {
+    font-size: 15px;
+    padding-top: 8px;
+
+}
+
+/*---  PLEASE NOTE ----*/
+.number-block {
+    width: 12px;
+}
+
+
+/*=========================
+         TABLE
+==========================*/
+
+.lightGray,
+.lightOrange {
+    width: 50px;
+    text-align: center;
+    vertical-align: baseline;
+}
+
+.check,
+.wrong,
+.number {
+    width: 15px;
+    height: 15px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 12px;
+}
+
+.check {
+    background-image: url("../images/evolv/icons/tickCross/tick.png");
+    background-size: cover;
+}
+
+.wrong {
+    background-image: url("../images/evolv/icons/tickCross/cross.png");
+    background-size: cover;
+}
+
+.number {
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+.text-block {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.lightOrange,
+.col-orange:before {
+    background-color: #feeddc;
+}
+
+.lightGray,
+.col-gray:before {
+    background-color: #f5f5f5
+}
+
+#table tr td span {
+    font-size: 15px;
+    margin-bottom: 10px;
+    display: block;
+    margin-top: 9px;
+
+}
+
+.number-block-table {
+    width: 25PX;
+    text-align: center;
+    vertical-align: baseline;
+
+}
+
+.number-block-table span {}
+
+.col-grade .d-flex {
+    margin-left: -6px;
+    width: 50px;
+}
+
+.col-grade .d-flex span {
+    transform: rotate(-70deg);
+    display: block;
+    width: 76px;
+    text-align: left;
+}
+
+.col-grade .d-flex span:nth-child(1) {
+    font-size: 15px !important;
+    font-weight: 600;
+
+}
+
+.col-grade .d-flex span:nth-child(2) {
+    font-size: 11px !important;
+    font-weight: 500;
+    margin-top: -19px;
+    margin-left: 16px;
+
+
+}
+
+.col-grade {
+    position: relative;
+
+}
+
+.col-grade::before {
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 19px 6px 0px 0px;
+    transform: skewX(-16deg);
+    margin-left: 12px;
+
+}
+
+.right-block {
+    width: 25px;
+    height: 25px;
+
+}
