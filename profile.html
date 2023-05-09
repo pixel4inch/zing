@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <!-- Basic Page Needs
+  ================================================== -->
+    <meta charset="utf-8" />
+    <title>Zing</title>
+
+    <!-- Mobile Specific Metas
+  ================================================== -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="description" content="Zing" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=5.0"
+    />
+    <meta name="author" content="Zing " />
+    <meta name="generator" content="Zing" />
+
+    <!-- theme meta -->
+    <meta name="theme-name" content="Zing" />
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico" />
+    <!-- PLUGINS CSS STYLE -->
+    <link rel="stylesheet" href="plugins/bootstrap/bootstrap.min.css" />
+    <link rel="stylesheet" href="plugins/themify-icons/themify-icons.css" />
+    <link rel="stylesheet" href="plugins/slick/slick.css" />
+    <link rel="stylesheet" href="plugins/slick/slick-theme.css" />
+    <link rel="stylesheet" href="plugins/fancybox/jquery.fancybox.min.css" />
+    <link rel="stylesheet" href="plugins/aos/aos.css" />
+    <!-- CUSTOM CSS -->
+    <link href="css/style.css" rel="stylesheet" />
+    <link href="css/custome.css" rel="stylesheet" />
+    <link
+      href="./plugins/jsvectormap-master/dist/css/jsvectormap.css"
+      rel="stylesheet"
+    />
+
+    <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+    <!---WEB COMPONETNS-->
+    <script src="./webcomponts/headerComponents.js"></script>
+    <script src="./webcomponts/FooterComponent.js"></script>
+    <script src="./webcomponts/ScrollToTop.js"></script>
+  </head>
+
+  <body class="body-wrapper" data-spy="scroll" data-target=".privacy-nav">
+    <!--============================
+=            HEADER           =
+=============================-->
+    <header-component></header-component>
+
+    <!---====================================
+=            Hero Section            =
+=====================================--->
+<div class="body-content">
+    <section class="section hero_section profile">    
+      <div id="map" style="z-index:0"></div>
+    <div class="container" style="z-index:99999">    
+      <div >
+           <h1 style="font-size: 23px;text-transform: none;">Zing is a Silicon Valley based program of the Confederation of Indian Industry (CII). 
+          CII is a non-governmental, not-for-profit powerhouse that is industry-led and industry-managed, with 1,200+ employees, 62 offices, 10 centers of excellence, 
+          11,000+ startups/scale-ups, 9,000+ Corporate members from the private as well as public sectors, including SMEs and MNCs. Additionally CII network includes an indirect membership of 300,000+ affiliated enterprises from 286 national and regional sectoral industry bodies worldwide.
+              
+              <p></p>
+  
+  
+  </h1>
+          <br/>
+  <!--p class="text-left para-display4" style="line-height:30px;font-size:25px;">
+  CII works closely with the Government on policy issues, interfacing with thought leaders, and enhancing efficiency, competitiveness and business opportunities for industry through a range of specialized services and strategic global linkages - providing a platform for consensus-building on key issues.</p>
+        <br /-->
+        <p class="text-left para-display4" style="line-height:30px;font-size:20px;">The Zing Program aspires to be the global facilitator for innovative tech startups by connecting them to investors, big enterprise, and government through a myriad of events and engagements. Zing provides the right platform for multidimensional business & technology partnerships, thereby presenting the perfect global playbook. CII's strategic objective is to build a strong nexus for the world's most innovative tech startups that will become tomorrow's drivers for technological leadership, economic growth, and long-term nation building.
+  </p>
+          <br/>
+        <p class="text-left para-display4" style="line-height:30px;font-size:20px;">As the official Secretariat for 2023 <a href="https://www.b20india2023.org/"
+            class="linkblue" target="_blank"><font color="#ff9921">B20 Summit</font></a> and multiple programs it offers, this is a perfect
+          opportunity for innovators, investors, big enterprises, and governments to get engaged.</p>
+          
+      </div>
+    </div>
+    </section>
+  </div>
+    <!--====  End of Hero Section  ====-->
+
+    <!--============================
+	           Footer            
+=============================-->
+
+    <footer-component></footer-component>
+
+    <!---============================
+           ScrollTop        
+=============================--->
+
+    <scrolltop-component></scrolltop-component>
+
+    <!-- JAVASCRIPTS -->
+
+    <script src="plugins/bootstrap/bootstrap.min.js"></script>
+    <script src="plugins/slick/slick.min.js"></script>
+    <script src="plugins/fancybox/jquery.fancybox.min.js"></script>
+    <script src="plugins/syotimer/jquery.syotimer.min.js"></script>
+    <script src="plugins/aos/aos.js"></script>
+    <!-- google map -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAgeuuDfRlweIs7D6uo4wdIHVvJ0LonQ6g"></script>
+    <script src="plugins/google-map/gmap.js"></script>
+    <script src="js/script.js"></script>
+
+    <!---HOME PAGE MAP-->
+    <script src="./js/submenu_select.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+    <script
+      type="text/javascript"
+      src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"
+    ></script>
+
+    <script type="text/javascript">
+      $(document).ready(function () {
+        $("#google_translate_element").bind(
+          "DOMNodeInserted",
+          function (event) {
+            $(".goog-te-menu-value span:first").html("LANGUAGE");
+            $(".goog-te-menu-frame.skiptranslate").load(function () {
+              setTimeout(function () {
+                $(".goog-te-menu-frame.skiptranslate")
+                  .contents()
+                  .find(".goog-te-menu2-item-selected .text")
+                  .html("LANGUAGE");
+              }, 100);
+            });
+          }
+        );
+      });
+    </script>
+
+    <script type="text/javascript">
+      function googleTranslateElementInit() {
+        new google.translate.TranslateElement(
+          {
+            pageLanguage: "en",
+            includedLanguages: "en,es,zh-CN,de,ja,nl,fr,it,pt,ar,ko,sv,zh-TW",
+            layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+          },
+          "google_translate_element"
+        );
+      }
+    </script>
+  </body>
+</html>
