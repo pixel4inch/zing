@@ -4,7 +4,7 @@
   <!-- Basic Page Needs
   ================================================== -->
   <meta charset="utf-8">
-  <title>Diversity Equity Inclusion - Zing.</title>
+  <title>Diversity Equity Inclusion - Zing.biz</title>
   <!-- Mobile Specific Metas
   ================================================== -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -47,28 +47,29 @@
     PLACEKEEPTER BANNER
 =============================--> 
 <div class="body-content">
-  <section class="section ">
+  <section class="section pt-3 ">
     <div class="container">
-      <div class="row">      
+     <!--- <div class="row">      
         <h1 class="font-display1 text-center main-font-color my-0 col-lg-11 col-md-12 mx-auto" style="text-transform: uppercase;">Diversity Equity Inclusion</h1>
-     </div>
-    <div class="col-lg-11 col-md-12 mx-auto mt-2">
+     </div>--->
+    <!---div class="col-lg-11 col-md-12 mx-auto mt-2">
       <h2 class="font-weight-bold main-font-color font-display2 mb-4 text-center text-capitalize" style="letterspacing:-0.2px" >                   
        <font style="font-size:25.2px;"> Let's Eradicate all kinds of biases! </font></h2>  
-        <div class="col-11  mx-auto my-3">
-          <img src="./images/Zing/data/dei.jpg" class="border shadow mb-1 p-2 img-fluid d-block m-3 mx-auto"/>
-          <p class="infolink mt-1 text-right mb-5">Source: <a href="https://www.strategyr.com/market-report-diversity-and-inclusion-forecasts-global-industry-analysts-inc.asp" target="_blank" class="linkblue"> StrategyR</a></p>   
-        </div>       
-    </div>      
+             
+    </div--->      
     <div  id="collapseblock">
-      
-      <div class="w-100 mt-3 text-center">
-        <a href="JoinUs.asp?PageType=DIVERSITY EQUITY INCLUSION" target="_new1" class="text-white program-buttons">JOIN US!</a>
-        <a target="_new1" href="https://www.evolv.cc/show_dei.asp?GetTypePage=DOMAINEXPERTS" class="text-white program-buttons">INFLUENCERS </a>
-        <a target="_new1" href="https://www.evolv.cc/show_dei.asp?GetTypePage=SPONSOR" class="text-white program-buttons">SPONSOR</a>
-  	  </div>
+	 <%If trim(request("GetTypePage"))="SPONSOR" Then%>
+      <div class="mt-0  " id="collapseExample2" data-parent="#collapseblock" >  
+        <iframe src="https://www.Evolv.cc/Add_sponsors.asp?PageType=DEI" class="sponsors-frame "></iframe>
+    </div> 
+      <%End If%>
+	  <%If trim(request("GetTypePage"))="DOMAINEXPERTS" Then%>
+      <div class="mt-0   " id="domain-experts" data-parent="#collapseblock" >  
+        <iframe src="https://www.strategyr.com/evolv/Show_DEI_Companies_People.asp?SrcType=%FE%26%C4%FE3%3E%9D%DC%2D%A5%B8%BC%D4%94&ShowType=%FE%23%D2%EB92%81%CE&EID=%9Fc%8E&cnt=%9Cb%86%BFg&Start=%9D&E=" class="sponsors-frame "></iframe>
+      </div>
+     <%End If%>
     </div>
-      <!---SPONSER--->    
+        
       </div>
   </section>
 </div>

@@ -16,7 +16,7 @@ End If
   <!-- Basic Page Needs
   ================================================== -->
   <meta charset="utf-8">
-  <title>INNOVATOR SYNERGIES - ZING.BIZ</title>
+  <title>INNOVATOR SYNERGIES - Zing.cc</title>
 
   <!-- Mobile Specific Metas
   ================================================== -->

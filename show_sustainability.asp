@@ -4,7 +4,7 @@
   <!-- Basic Page Needs
   ================================================== -->
   <meta charset="utf-8">
-  <title>Diversity Equity Inclusion - Zing.</title>
+  <title>Sustainability - Zing</title>
   <!-- Mobile Specific Metas
   ================================================== -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,10 +12,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
   <meta name="author" content="Zing ">
   <meta name="generator" content="Zing">
-
   <!-- theme meta -->
   <meta name="theme-name" content="Zing" />
-
   <!-- Favicon -->
   <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico" />
   <!-- PLUGINS CSS STYLE -->
@@ -47,40 +45,36 @@
     PLACEKEEPTER BANNER
 =============================--> 
 <div class="body-content">
-  <section class="section ">
+  <section class="section pt-3 ">
     <div class="container">
-      <div class="row">      
-        <h1 class="font-display1 text-center main-font-color my-0 col-lg-11 col-md-12 mx-auto" style="text-transform: uppercase;">Diversity Equity Inclusion</h1>
-     </div>
-    <div class="col-lg-11 col-md-12 mx-auto mt-2">
-      <h2 class="font-weight-bold main-font-color font-display2 mb-4 text-center text-capitalize" style="letterspacing:-0.2px" >                   
-       <font style="font-size:25.2px;"> Let's Eradicate all kinds of biases! </font></h2>  
-        <div class="col-11  mx-auto my-3">
-          <img src="./images/Zing/data/dei.jpg" class="border shadow mb-1 p-2 img-fluid d-block m-3 mx-auto"/>
-          <p class="infolink mt-1 text-right mb-5">Source: <a href="https://www.strategyr.com/market-report-diversity-and-inclusion-forecasts-global-industry-analysts-inc.asp" target="_blank" class="linkblue"> StrategyR</a></p>   
-        </div>       
-    </div>      
-    <div  id="collapseblock">
-      
-      <div class="w-100 mt-3 text-center">
-        <a href="JoinUs.asp?PageType=DIVERSITY EQUITY INCLUSION" target="_new1" class="text-white program-buttons">JOIN US!</a>
-        <a target="_new1" href="https://www.evolv.cc/show_dei.asp?GetTypePage=DOMAINEXPERTS" class="text-white program-buttons">INFLUENCERS </a>
-        <a target="_new1" href="https://www.evolv.cc/show_dei.asp?GetTypePage=SPONSOR" class="text-white program-buttons">SPONSOR</a>
-  	  </div>
-    </div>
-      <!---SPONSER--->    
+      <!---<div class="row">      
+        <h1 class="font-display1 text-center main-font-color col-lg-11 col-md-12 mx-auto" style="text-transform: uppercase;">Sustainability</h1>
+    </div> --->   		
+   <div  id="collapseblock border-none"> 
+      <%If trim(request("GetTypePage"))="SPONSOR" Then%>
+      <div class="mt-0  border-top " id="collapseExample2" data-parent="#collapseblock" >  
+        <iframe src="Add_sponsors.asp?PageType=Sustainability" class="sponsors-frame "></iframe>
       </div>
+      <%End If%>
+	  <%If trim(request("GetTypePage"))="DOMAINEXPERTS" Then%>
+      <div class="mt-0" id="domain-experts" data-parent="#collapseblock" >  
+        <iframe class="domain-iframe" src="https://www.strategyr.com/evolv/Show_Sustainability_Companies_People.asp?SrcType=%FE%26%C4%FE3%3E%9D%DC%2D%A5%B8%BC%D4%94&ShowType=%FE%23%D2%EB92%81%CE&EID=%9Fc%8E&cnt=%9Cb%86%BFg"></iframe>
+      </div>
+      <%End If%>     
+    </div>
   </section>
+</div>
 </div>
 <!--====  End of Page Title  ====-->
 <!--============================
-	           Footer            
+  Footer            
 =============================-->
 <footer-component></footer-component>
-<!---============================
+  <!---============================
            ScrollTop        
 =============================--->
 <scrolltop-component></scrolltop-component>
+
   <!-- JAVASCRIPTS -->
   <script src="plugins/jquery/jquery.min.js"></script>
   <script src="plugins/bootstrap/bootstrap.min.js"></script>
@@ -91,9 +85,12 @@
   <!-- google map -->
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAgeuuDfRlweIs7D6uo4wdIHVvJ0LonQ6g"></script>
   <script src="plugins/google-map/gmap.js"></script>
+
   <script src="js/script.js"></script>
   <script src="./js/submenu_select.js"></script>
+
   <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
 <script type="text/javascript">
     $(document).ready(function(){
 $('#google_translate_element').bind('DOMNodeInserted', function(event) {
